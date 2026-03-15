@@ -1,0 +1,872 @@
+{
+  "brawler": {
+    "16000000": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000000.png",
+      "name_en": "SHELLY"
+    },
+    "16000001": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000001.png",
+      "name_en": "COLT"
+    },
+    "16000002": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000002.png",
+      "name_en": "BULL"
+    },
+    "16000003": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000003.png",
+      "name_en": "BROCK"
+    },
+    "16000004": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000004.png",
+      "name_en": "RICO"
+    },
+    "16000005": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000005.png",
+      "name_en": "SPIKE"
+    },
+    "16000006": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000006.png",
+      "name_en": "BARLEY"
+    },
+    "16000007": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000007.png",
+      "name_en": "JESSIE"
+    },
+    "16000008": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000008.png",
+      "name_en": "NITA"
+    },
+    "16000009": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000009.png",
+      "name_en": "DYNAMIKE"
+    },
+    "16000010": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000010.png",
+      "name_en": "EL PRIMO"
+    },
+    "16000011": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000011.png",
+      "name_en": "MORTIS"
+    },
+    "16000012": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000012.png",
+      "name_en": "CROW"
+    },
+    "16000013": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000013.png",
+      "name_en": "POCO"
+    },
+    "16000014": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000014.png",
+      "name_en": "BO"
+    },
+    "16000015": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000015.png",
+      "name_en": "PIPER"
+    },
+    "16000016": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000016.png",
+      "name_en": "PAM"
+    },
+    "16000017": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000017.png",
+      "name_en": "TARA"
+    },
+    "16000018": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000018.png",
+      "name_en": "DARRYL"
+    },
+    "16000019": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000019.png",
+      "name_en": "PENNY"
+    },
+    "16000020": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000020.png",
+      "name_en": "FRANK"
+    },
+    "16000021": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000021.png",
+      "name_en": "GENE"
+    },
+    "16000022": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000022.png",
+      "name_en": "TICK"
+    },
+    "16000023": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000023.png",
+      "name_en": "LEON"
+    },
+    "16000024": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000024.png",
+      "name_en": "ROSA"
+    },
+    "16000025": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000025.png",
+      "name_en": "CARL"
+    },
+    "16000026": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000026.png",
+      "name_en": "BIBI"
+    },
+    "16000027": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000027.png",
+      "name_en": "8-BIT"
+    },
+    "16000028": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000028.png",
+      "name_en": "SANDY"
+    },
+    "16000029": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000029.png",
+      "name_en": "BEA"
+    },
+    "16000030": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000030.png",
+      "name_en": "EMZ"
+    },
+    "16000031": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000031.png",
+      "name_en": "MR. P"
+    },
+    "16000032": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000032.png",
+      "name_en": "MAX"
+    },
+    "16000034": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000034.png",
+      "name_en": "JACKY"
+    },
+    "16000035": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000035.png",
+      "name_en": "GALE"
+    },
+    "16000036": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000036.png",
+      "name_en": "NANI"
+    },
+    "16000037": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000037.png",
+      "name_en": "SPROUT"
+    },
+    "16000038": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000038.png",
+      "name_en": "SURGE"
+    },
+    "16000039": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000039.png",
+      "name_en": "COLETTE"
+    },
+    "16000040": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000040.png",
+      "name_en": "AMBER"
+    },
+    "16000041": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000041.png",
+      "name_en": "LOU"
+    },
+    "16000042": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000042.png",
+      "name_en": "BYRON"
+    },
+    "16000043": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000043.png",
+      "name_en": "EDGAR"
+    },
+    "16000044": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000044.png",
+      "name_en": "RUFFS"
+    },
+    "16000045": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000045.png",
+      "name_en": "STU"
+    },
+    "16000046": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000046.png",
+      "name_en": "BELLE"
+    },
+    "16000047": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000047.png",
+      "name_en": "SQUEAK"
+    },
+    "16000048": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000048.png",
+      "name_en": "GROM"
+    },
+    "16000049": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000049.png",
+      "name_en": "BUZZ"
+    },
+    "16000050": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000050.png",
+      "name_en": "GRIFF"
+    },
+    "16000051": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000051.png",
+      "name_en": "ASH"
+    },
+    "16000052": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000052.png",
+      "name_en": "MEG"
+    },
+    "16000053": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000053.png",
+      "name_en": "LOLA"
+    },
+    "16000054": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000054.png",
+      "name_en": "FANG"
+    },
+    "16000056": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000056.png",
+      "name_en": "EVE"
+    },
+    "16000057": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000057.png",
+      "name_en": "JANET"
+    },
+    "16000058": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000058.png",
+      "name_en": "BONNIE"
+    },
+    "16000059": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000059.png",
+      "name_en": "OTIS"
+    },
+    "16000060": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000060.png",
+      "name_en": "SAM"
+    },
+    "16000061": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000061.png",
+      "name_en": "GUS"
+    },
+    "16000062": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000062.png",
+      "name_en": "BUSTER"
+    },
+    "16000063": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000063.png",
+      "name_en": "CHESTER"
+    },
+    "16000064": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000064.png",
+      "name_en": "GRAY"
+    },
+    "16000065": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000065.png",
+      "name_en": "MANDY"
+    },
+    "16000066": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000066.png",
+      "name_en": "R-T"
+    },
+    "16000067": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000067.png",
+      "name_en": "WILLOW"
+    },
+    "16000068": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000068.png",
+      "name_en": "MAISIE"
+    },
+    "16000069": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000069.png",
+      "name_en": "HANK"
+    },
+    "16000070": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000070.png",
+      "name_en": "CORDELIUS"
+    },
+    "16000071": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000071.png",
+      "name_en": "DOUG"
+    },
+    "16000072": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000072.png",
+      "name_en": "PEARL"
+    },
+    "16000073": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000073.png",
+      "name_en": "CHUCK"
+    },
+    "16000074": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000074.png",
+      "name_en": "CHARLIE"
+    },
+    "16000075": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000075.png",
+      "name_en": "MICO"
+    },
+    "16000076": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000076.png",
+      "name_en": "KIT"
+    },
+    "16000077": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000077.png",
+      "name_en": "LARRY & LAWRIE"
+    },
+    "16000078": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000078.png",
+      "name_en": "MELODIE"
+    },
+    "16000079": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000079.png",
+      "name_en": "ANGELO"
+    },
+    "16000080": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000080.png",
+      "name_en": "DRACO"
+    },
+    "16000081": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000081.png",
+      "name_en": "LILY"
+    },
+    "16000082": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000082.png",
+      "name_en": "BERRY"
+    },
+    "16000083": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000083.png",
+      "name_en": "CLANCY"
+    },
+    "16000084": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000084.png",
+      "name_en": "MOE"
+    },
+    "16000085": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000085.png",
+      "name_en": "KENJI"
+    },
+    "16000086": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000086.png",
+      "name_en": "SHADE"
+    },
+    "16000087": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000087.png",
+      "name_en": "JUJU"
+    },
+    "16000089": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000089.png",
+      "name_en": "MEEPLE"
+    },
+    "16000090": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000090.png",
+      "name_en": "OLLIE"
+    },
+    "16000091": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000091.png",
+      "name_en": "LUMI"
+    },
+    "16000092": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000092.png",
+      "name_en": "FINX"
+    },
+    "16000093": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000093.png",
+      "name_en": "JAE-YONG"
+    },
+    "16000094": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000094.png",
+      "name_en": "KAZE"
+    },
+    "16000095": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000095.png",
+      "name_en": "ALLI"
+    },
+    "16000096": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000096.png",
+      "name_en": "TRUNK"
+    },
+    "16000097": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000097.png",
+      "name_en": "MINA"
+    },
+    "16000098": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000098.png",
+      "name_en": "ZIGGY"
+    },
+    "16000099": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000099.png",
+      "name_en": "PIERCE"
+    },
+    "16000100": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000100.png",
+      "name_en": "GIGI"
+    },
+    "16000101": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000101.png",
+      "name_en": "GLOWBERT"
+    },
+    "16000102": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000102.png",
+      "name_en": "SIRIUS"
+    },
+    "16000103": {
+      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000103.png",
+      "name_en": "NAJIA"
+    }
+  },
+  "map": {
+    "Sidetrack": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001053.png"
+    },
+    "Arena of Glory": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000996.png"
+    },
+    "Nutmeg": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001168.png"
+    },
+    "Healthy Middle Ground": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000581.png"
+    },
+    "Beach Ball": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000143.png"
+    },
+    "Hot Potato": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000053.png"
+    },
+    "Open Business": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000292.png"
+    },
+    "Center Stage": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000132.png"
+    },
+    "Ring of Fire": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000300.png"
+    },
+    "Too Gimmicky 2": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001164.png"
+    },
+    "Fortress Fall": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001172.png"
+    },
+    "Hideout": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000022.png"
+    },
+    "Safe Zone": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000019.png"
+    },
+    "Mirage Arena": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000997.png"
+    },
+    "New Horizons": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000703.png"
+    },
+    "Gem Fort": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000010.png"
+    },
+    "Bridge Too Far": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000072.png"
+    },
+    "Dueling Beetles": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000306.png"
+    },
+    "Layer Cake": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000082.png"
+    },
+    "The Smackdome": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001065.png"
+    },
+    "Quintillion": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001170.png"
+    },
+    "New Perspective": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000528.png"
+    },
+    "Deep End": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000429.png"
+    },
+    "Double Swoosh": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000115.png"
+    },
+    "Grass Knot": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001020.png"
+    },
+    "Hyperspace": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001178.png"
+    },
+    "Pocket Pass": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000386.png"
+    },
+    "Dry Season": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000083.png"
+    },
+    "Triple Dribble": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000025.png"
+    },
+    "Crystal Arcade": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000781.png"
+    },
+    "Shooting Star": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000005.png"
+    },
+    "Out in the Open": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000548.png"
+    },
+    "Opening Move": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001210.png"
+    },
+    "Slippery Slap": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000851.png"
+    },
+    "Flaring Phoenix": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000440.png"
+    },
+    "Kaiju Lake": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000993.png"
+    },
+    "Pinball Dreams": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000118.png"
+    },
+    "Sneaky Fields": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000050.png"
+    },
+    "Singed Earth": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001167.png"
+    },
+    "Pinhole Punt": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000026.png"
+    },
+    "Sunny Soccer": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000144.png"
+    },
+    "Hard Rock Mine": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000007.png"
+    },
+    "Deathcap Trap": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000009.png"
+    },
+    "Undermine": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000011.png"
+    },
+    "Parallel Plays": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000293.png"
+    },
+    "Belle's Rock": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000368.png"
+    },
+    "Spiraling Out": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001021.png"
+    },
+    "Kaboom Canyon": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000018.png"
+    },
+    "Tip Toe": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001221.png"
+    },
+    "Tax Evasion": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001165.png"
+    },
+    "Rustic Arcade": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000343.png"
+    },
+    "Knockout Grounds": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001064.png"
+    },
+    "Flowing Springs": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000502.png"
+    },
+    "WALKING ON HOT SAND": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001163.png"
+    },
+    "Watermelons": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001219.png"
+    },
+    "Backyard Bowl": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000024.png"
+    },
+    "Goldarm Gulch": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000367.png"
+    },
+    "Konnakol": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001173.png"
+    },
+    "Hyacinth House": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001203.png"
+    },
+    "No Excuses": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000295.png"
+    },
+    "Snake Pit": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001171.png"
+    },
+    "Super Beach": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000051.png"
+    },
+    "Palette Hangout": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001201.png"
+    },
+    "No Good Deed": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001205.png"
+    },
+    "Chivalry": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001127.png"
+    },
+    "Goalies": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001204.png"
+    },
+    "Triple-Double": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000390.png"
+    },
+    "H is for Holiday": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001177.png"
+    },
+    "Four Levels": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000734.png"
+    },
+    "Storage Sector": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001027.png"
+    },
+    "Wall Hugging": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001175.png"
+    },
+    "Aridity": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001169.png"
+    },
+    "Crab Claws": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001211.png"
+    },
+    "On a Roll": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001026.png"
+    },
+    "Double Decker": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001018.png"
+    },
+    "Super Center": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000850.png"
+    },
+    "Hit and Run": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001220.png"
+    },
+    "Hee Hee": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001049.png"
+    },
+    "Cabin Fever": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001222.png"
+    },
+    "Slam Dunk": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000389.png"
+    },
+    "Bouncy Bowl": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000852.png"
+    },
+    "Reversal": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000385.png"
+    },
+    "Below Zero": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000853.png"
+    },
+    "Golden Bay": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001202.png"
+    },
+    "Turnover": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000387.png"
+    },
+    "Stone Fort": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000001.png"
+    },
+    "Pinned Down": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001179.png"
+    },
+    "Hello Always Ends With a Goodbye": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001200.png"
+    },
+    "The Big Top": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001224.png"
+    },
+    "Corner Cave": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001063.png"
+    },
+    "Streets with No Name": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001019.png"
+    },
+    "Call of the Water": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001059.png"
+    },
+    "Close Call": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000362.png"
+    },
+    "Insane Streamer": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001043.png"
+    },
+    "Think Ahead": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001058.png"
+    },
+    "Tuning Fork": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001206.png"
+    },
+    "Perpetual Motion": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001207.png"
+    },
+    "Subway Turfers": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001024.png"
+    },
+    "Crescendo": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001101.png"
+    },
+    "Alley Oop": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000388.png"
+    },
+    "Rebound Ring": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001032.png"
+    },
+    "Pit Stop": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000137.png"
+    },
+    "Illusion Alley": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001190.png"
+    },
+    "A Ballad About Minced Cutlets": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001096.png"
+    },
+    "Satomi Springs": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001209.png"
+    },
+    "Open Space": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000499.png"
+    },
+    "Ball Hog": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000384.png"
+    },
+    "Treasure Island": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000980.png"
+    },
+    "Twentyfive to Two": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001055.png"
+    },
+    "Choral Chambers": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001176.png"
+    },
+    "Starrburst": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001067.png"
+    },
+    "Don't turn around": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000553.png"
+    },
+    "Brace for Impact": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000935.png"
+    },
+    "Grab the Moment": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001094.png"
+    },
+    "H for...": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000882.png"
+    },
+    "Icy ice park": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000646.png"
+    },
+    "Match 1123581321": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001054.png"
+    },
+    "Rooftop Runners": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000929.png"
+    },
+    "Picturesque": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001208.png"
+    },
+    "Ends Meet": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000360.png"
+    },
+    "Party for You": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001095.png"
+    },
+    "Squish Court": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001039.png"
+    },
+    "Outlaw Camp": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000006.png"
+    },
+    "Imposter Pathway": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001225.png"
+    },
+    "Frostbite Rink": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001035.png"
+    },
+    "Deathmatch": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001104.png"
+    },
+    "Local Restaurants": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000932.png"
+    },
+    "Snake Prairie": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000004.png"
+    },
+    "Doppelzone": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001191.png"
+    },
+    "Serpentshrine Island": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001100.png"
+    },
+    "Dodge or Die": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001086.png"
+    },
+    "Unhappy Arena": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000923.png"
+    },
+    "GG 2.0": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000900.png"
+    },
+    "Cool Box": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000854.png"
+    },
+    "Open Zone": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000527.png"
+    },
+    "Extreme Nonchalance": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001052.png"
+    },
+    "Lilygear Lake": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000931.png"
+    },
+    "Time Flies": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001056.png"
+    },
+    "Rastermind": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001162.png"
+    },
+    "Journey of a Thousand Steps": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001102.png"
+    },
+    "Flute Chutes": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001093.png"
+    },
+    "Treasure Marks the Spot": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000915.png"
+    },
+    "Frosty tracks": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000647.png"
+    },
+    "Catacombs": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001103.png"
+    },
+    "Siberian Stand Off": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000971.png"
+    },
+    "Moonbark Meadow": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001029.png"
+    },
+    "Moonveil Mansion": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001188.png"
+    },
+    "Middle Management": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000914.png"
+    },
+    "Survival of the Meanest": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000975.png"
+    },
+    "Mirages of Madness": {
+      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000973.png"
+    }
+  },
+  "mode": {
+    "botDrop": {},
+    "wipeout": {},
+    "siege": {},
+    "basketBrawl": {},
+    "bounty": {},
+    "brawlBall": {},
+    "heist": {},
+    "hotZone": {},
+    "knockout": {},
+    "gemGrab": {}
+  }
+}
