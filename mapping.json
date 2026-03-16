@@ -2,55 +2,68 @@
   "brawler": {
     "16000000": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000000.png",
-      "name_en": "SHELLY"
+      "name_en": "SHELLY",
+      "name_zh": "雪莉"
     },
     "16000001": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000001.png",
-      "name_en": "COLT"
+      "name_en": "COLT",
+      "name_zh": "柯爾特"
     },
     "16000002": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000002.png",
-      "name_en": "BULL"
+      "name_en": "BULL",
+      "name_zh": "狂牛"
     },
     "16000003": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000003.png",
-      "name_en": "BROCK"
+      "name_en": "BROCK",
+      "name_zh": "布洛克"
     },
     "16000004": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000004.png",
-      "name_en": "RICO"
+      "name_en": "RICO",
+      "name_zh": "彈射"
     },
     "16000005": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000005.png",
-      "name_en": "SPIKE"
+      "name_en": "SPIKE",
+      "name_zh": "史派克"
     },
     "16000006": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000006.png",
-      "name_en": "BARLEY"
+      "name_en": "BARLEY",
+      "name_zh": "保力"
     },
     "16000007": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000007.png",
-      "name_en": "JESSIE"
+      "name_en": "JESSIE",
+      "name_zh": "潔西"
     },
     "16000008": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000008.png",
-      "name_en": "NITA"
+      "name_en": "NITA",
+      "name_zh": "妮塔"
     },
     "16000009": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000009.png",
-      "name_en": "DYNAMIKE"
+      "name_en": "DYNAMIKE",
+      "name_zh": "爆破麥克"
     },
     "16000010": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000010.png",
-      "name_en": "EL PRIMO"
+      "name_en": "EL PRIMO",
+      "name_zh": "艾爾普里莫"
     },
     "16000011": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000011.png",
-      "name_en": "MORTIS"
+      "name_en": "MORTIS",
+      "name_zh": "莫提斯"
     },
     "16000012": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000012.png",
-      "name_en": "CROW"
+      "name_en": "CROW",
+      "name_zh": "鴉"
     },
     "16000013": {
       "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000013.png",
