@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-03-20T20:53:26",
+  "update_time": "2026-03-20T21:02:05",
   "valid_days": 1,
   "active_maps": [
     {
@@ -2739,27 +2739,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 64.17,
+            "excess_risk_pct": 62.91,
             "encounters": 34
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 54.91,
+            "excess_risk_pct": 53.83,
             "encounters": 331
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 53.94,
+            "excess_risk_pct": 52.88,
             "encounters": 213
           },
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 39.5,
+            "excess_risk_pct": 38.73,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 35.4,
+            "excess_risk_pct": 34.71,
             "encounters": 187
           }
         ]
@@ -2795,27 +2795,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 87.57,
+            "excess_risk_pct": 85.85,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 57.12,
+            "excess_risk_pct": 56.0,
             "encounters": 217
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 53.51,
+            "excess_risk_pct": 52.46,
             "encounters": 328
           },
           {
             "enemy_brawler_id": 16000096,
-            "excess_risk_pct": 52.58,
+            "excess_risk_pct": 51.55,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 52.53,
+            "excess_risk_pct": 51.5,
             "encounters": 15
           }
         ]
@@ -2851,27 +2851,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000083,
-            "excess_risk_pct": 80.1,
+            "excess_risk_pct": 78.53,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 65.51,
+            "excess_risk_pct": 64.23,
             "encounters": 52
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 61.47,
+            "excess_risk_pct": 60.26,
             "encounters": 223
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 48.36,
+            "excess_risk_pct": 47.41,
             "encounters": 317
           },
           {
             "enemy_brawler_id": 16000014,
-            "excess_risk_pct": 39.22,
+            "excess_risk_pct": 38.45,
             "encounters": 101
           }
         ]
@@ -2907,27 +2907,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.83,
+            "excess_risk_pct": 64.54,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 57.25,
+            "excess_risk_pct": 56.12,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 55.93,
+            "excess_risk_pct": 54.83,
             "encounters": 143
           },
           {
             "enemy_brawler_id": 16000003,
-            "excess_risk_pct": 53.9,
+            "excess_risk_pct": 52.84,
             "encounters": 143
           },
           {
             "enemy_brawler_id": 16000058,
-            "excess_risk_pct": 52.83,
+            "excess_risk_pct": 51.79,
             "encounters": 17
           }
         ]
@@ -2963,27 +2963,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 64.17,
+            "excess_risk_pct": 62.91,
             "encounters": 34
           },
           {
             "enemy_brawler_id": 16000052,
-            "excess_risk_pct": 46.74,
+            "excess_risk_pct": 45.82,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.29,
+            "excess_risk_pct": 42.44,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 42.37,
+            "excess_risk_pct": 41.54,
             "encounters": 197
           },
           {
             "enemy_brawler_id": 16000095,
-            "excess_risk_pct": 38.27,
+            "excess_risk_pct": 37.52,
             "encounters": 21
           }
         ]
@@ -3019,27 +3019,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000041,
-            "excess_risk_pct": 71.8,
+            "excess_risk_pct": 70.39,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 67.06,
+            "excess_risk_pct": 65.75,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 53.09,
+            "excess_risk_pct": 52.05,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000096,
-            "excess_risk_pct": 45.32,
+            "excess_risk_pct": 44.43,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000095,
-            "excess_risk_pct": 38.27,
+            "excess_risk_pct": 37.52,
             "encounters": 21
           }
         ]
@@ -3075,27 +3075,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 109.27,
+            "excess_risk_pct": 107.13,
             "encounters": 76
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 81.11,
+            "excess_risk_pct": 79.52,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000007,
-            "excess_risk_pct": 76.9,
+            "excess_risk_pct": 75.39,
             "encounters": 65
           },
           {
             "enemy_brawler_id": 16000008,
-            "excess_risk_pct": 41.64,
+            "excess_risk_pct": 40.82,
             "encounters": 63
           },
           {
             "enemy_brawler_id": 16000013,
-            "excess_risk_pct": 39.13,
+            "excess_risk_pct": 38.37,
             "encounters": 62
           }
         ]
@@ -3131,27 +3131,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 131.66,
+            "excess_risk_pct": 129.08,
             "encounters": 55
           },
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 128.55,
+            "excess_risk_pct": 126.03,
             "encounters": 83
           },
           {
             "enemy_brawler_id": 16000007,
-            "excess_risk_pct": 109.56,
+            "excess_risk_pct": 107.41,
             "encounters": 77
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 71.88,
+            "excess_risk_pct": 70.47,
             "encounters": 54
           },
           {
             "enemy_brawler_id": 16000094,
-            "excess_risk_pct": 61.63,
+            "excess_risk_pct": 60.42,
             "encounters": 44
           }
         ]
@@ -3187,27 +3187,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 98.4,
+            "excess_risk_pct": 96.46,
             "encounters": 62
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 92.18,
+            "excess_risk_pct": 90.36,
             "encounters": 264
           },
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 70.71,
+            "excess_risk_pct": 69.31,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000051,
-            "excess_risk_pct": 64.74,
+            "excess_risk_pct": 63.46,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 59.98,
+            "excess_risk_pct": 58.79,
             "encounters": 340
           }
         ]
@@ -3243,27 +3243,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 54.08,
+            "excess_risk_pct": 53.02,
             "encounters": 329
           },
           {
             "enemy_brawler_id": 16000054,
-            "excess_risk_pct": 47.09,
+            "excess_risk_pct": 46.16,
             "encounters": 112
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 41.27,
+            "excess_risk_pct": 40.46,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 38.77,
+            "excess_risk_pct": 38.01,
             "encounters": 66
           },
           {
             "enemy_brawler_id": 16000011,
-            "excess_risk_pct": 37.7,
+            "excess_risk_pct": 36.96,
             "encounters": 314
           }
         ]
@@ -3299,27 +3299,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 88.76,
+            "excess_risk_pct": 87.02,
             "encounters": 39
           },
           {
             "enemy_brawler_id": 16000010,
-            "excess_risk_pct": 53.0,
+            "excess_risk_pct": 51.96,
             "encounters": 66
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 52.57,
+            "excess_risk_pct": 51.54,
             "encounters": 326
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 46.98,
+            "excess_risk_pct": 46.06,
             "encounters": 203
           },
           {
             "enemy_brawler_id": 16000052,
-            "excess_risk_pct": 46.74,
+            "excess_risk_pct": 45.82,
             "encounters": 16
           }
         ]
@@ -3355,27 +3355,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 53.04,
+            "excess_risk_pct": 52.0,
             "encounters": 327
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 48.86,
+            "excess_risk_pct": 47.9,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 44.54,
+            "excess_risk_pct": 43.67,
             "encounters": 200
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 35.02,
+            "excess_risk_pct": 34.33,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000011,
-            "excess_risk_pct": 34.97,
+            "excess_risk_pct": 34.29,
             "encounters": 308
           }
         ]
@@ -3411,27 +3411,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 55.62,
+            "excess_risk_pct": 54.53,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000021,
-            "excess_risk_pct": 48.44,
+            "excess_risk_pct": 47.49,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000062,
-            "excess_risk_pct": 45.38,
+            "excess_risk_pct": 44.49,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 45.3,
+            "excess_risk_pct": 44.42,
             "encounters": 40
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 44.52,
+            "excess_risk_pct": 43.65,
             "encounters": 14
           }
         ]
@@ -3467,27 +3467,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000013,
-            "excess_risk_pct": 50.35,
+            "excess_risk_pct": 49.37,
             "encounters": 67
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 47.32,
+            "excess_risk_pct": 46.39,
             "encounters": 10
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 47.08,
+            "excess_risk_pct": 46.16,
             "encounters": 70
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 42.27,
+            "excess_risk_pct": 41.45,
             "encounters": 304
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 37.57,
+            "excess_risk_pct": 36.84,
             "encounters": 190
           }
         ]
@@ -3523,27 +3523,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 54.19,
+            "excess_risk_pct": 53.12,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000014,
-            "excess_risk_pct": 43.65,
+            "excess_risk_pct": 42.79,
             "encounters": 104
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 42.36,
+            "excess_risk_pct": 41.53,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 38.02,
+            "excess_risk_pct": 37.27,
             "encounters": 262
           },
           {
             "enemy_brawler_id": 16000058,
-            "excess_risk_pct": 34.58,
+            "excess_risk_pct": 33.9,
             "encounters": 15
           }
         ]
@@ -3579,27 +3579,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 121.02,
+            "excess_risk_pct": 118.64,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 94.24,
+            "excess_risk_pct": 92.39,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000015,
-            "excess_risk_pct": 79.8,
+            "excess_risk_pct": 78.23,
             "encounters": 187
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 76.58,
+            "excess_risk_pct": 75.08,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 71.84,
+            "excess_risk_pct": 70.43,
             "encounters": 82
           }
         ]
@@ -3635,27 +3635,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000040,
-            "excess_risk_pct": 48.38,
+            "excess_risk_pct": 47.43,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 35.78,
+            "excess_risk_pct": 35.07,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 32.61,
+            "excess_risk_pct": 31.97,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000007,
-            "excess_risk_pct": 31.07,
+            "excess_risk_pct": 30.46,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 28.71,
+            "excess_risk_pct": 28.14,
             "encounters": 244
           }
         ]
@@ -3691,27 +3691,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 97.87,
+            "excess_risk_pct": 95.95,
             "encounters": 31
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 78.8,
+            "excess_risk_pct": 77.25,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 48.36,
+            "excess_risk_pct": 47.41,
             "encounters": 317
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 42.88,
+            "excess_risk_pct": 42.04,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 41.93,
+            "excess_risk_pct": 41.11,
             "encounters": 24
           }
         ]
@@ -3747,27 +3747,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 64.06,
+            "excess_risk_pct": 62.8,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 62.81,
+            "excess_risk_pct": 61.58,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 55.73,
+            "excess_risk_pct": 54.63,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 53.29,
+            "excess_risk_pct": 52.25,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 44.24,
+            "excess_risk_pct": 43.38,
             "encounters": 308
           }
         ]
@@ -3803,27 +3803,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 216.66,
+            "excess_risk_pct": 212.42,
             "encounters": 115
           },
           {
             "enemy_brawler_id": 16000007,
-            "excess_risk_pct": 106.84,
+            "excess_risk_pct": 104.74,
             "encounters": 76
           },
           {
             "enemy_brawler_id": 16000030,
-            "excess_risk_pct": 83.11,
+            "excess_risk_pct": 81.48,
             "encounters": 273
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 49.56,
+            "excess_risk_pct": 48.58,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 35.74,
+            "excess_risk_pct": 35.04,
             "encounters": 13
           }
         ]
@@ -3859,27 +3859,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 92.39,
+            "excess_risk_pct": 90.57,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 66.36,
+            "excess_risk_pct": 65.06,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 56.11,
+            "excess_risk_pct": 55.0,
             "encounters": 332
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 50.58,
+            "excess_risk_pct": 49.59,
             "encounters": 207
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 44.11,
+            "excess_risk_pct": 43.24,
             "encounters": 13
           }
         ]
@@ -3915,27 +3915,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 109.85,
+            "excess_risk_pct": 107.67,
             "encounters": 60
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 76.98,
+            "excess_risk_pct": 75.45,
             "encounters": 161
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 65.21,
+            "excess_risk_pct": 63.92,
             "encounters": 37
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 65.12,
+            "excess_risk_pct": 63.82,
             "encounters": 78
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 54.64,
+            "excess_risk_pct": 53.55,
             "encounters": 48
           }
         ]
@@ -3971,27 +3971,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 62.05,
+            "excess_risk_pct": 60.83,
             "encounters": 11
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 59.81,
+            "excess_risk_pct": 58.64,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 46.68,
+            "excess_risk_pct": 45.77,
             "encounters": 7
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 45.27,
+            "excess_risk_pct": 44.38,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 35.02,
+            "excess_risk_pct": 34.33,
             "encounters": 14
           }
         ]
@@ -4027,27 +4027,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 57.03,
+            "excess_risk_pct": 55.91,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000048,
-            "excess_risk_pct": 51.56,
+            "excess_risk_pct": 50.55,
             "encounters": 45
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 46.5,
+            "excess_risk_pct": 45.58,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 44.86,
+            "excess_risk_pct": 43.98,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000072,
-            "excess_risk_pct": 36.54,
+            "excess_risk_pct": 35.82,
             "encounters": 15
           }
         ]
@@ -4083,27 +4083,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 340.5,
+            "excess_risk_pct": 333.73,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 72.89,
+            "excess_risk_pct": 71.44,
             "encounters": 364
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 56.52,
+            "excess_risk_pct": 55.4,
             "encounters": 213
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 53.29,
+            "excess_risk_pct": 52.23,
             "encounters": 209
           },
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 45.47,
+            "excess_risk_pct": 44.57,
             "encounters": 12
           }
         ]
@@ -4139,27 +4139,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 78.8,
+            "excess_risk_pct": 77.25,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 53.09,
+            "excess_risk_pct": 52.05,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 51.33,
+            "excess_risk_pct": 50.32,
             "encounters": 209
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 44.15,
+            "excess_risk_pct": 43.28,
             "encounters": 308
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 43.21,
+            "excess_risk_pct": 42.36,
             "encounters": 34
           }
         ]
@@ -4195,27 +4195,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 64.78,
+            "excess_risk_pct": 63.5,
             "encounters": 225
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 58.58,
+            "excess_risk_pct": 57.42,
             "encounters": 335
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 54.53,
+            "excess_risk_pct": 53.45,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 46.52,
+            "excess_risk_pct": 45.6,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 36.26,
+            "excess_risk_pct": 35.55,
             "encounters": 22
           }
         ]
@@ -4251,27 +4251,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 56.2,
+            "excess_risk_pct": 55.1,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 53.16,
+            "excess_risk_pct": 52.11,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 50.67,
+            "excess_risk_pct": 49.68,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000095,
-            "excess_risk_pct": 38.27,
+            "excess_risk_pct": 37.52,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 36.76,
+            "excess_risk_pct": 36.04,
             "encounters": 31
           }
         ]
@@ -4307,27 +4307,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000041,
-            "excess_risk_pct": 59.08,
+            "excess_risk_pct": 57.92,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 47.52,
+            "excess_risk_pct": 46.59,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 43.44,
+            "excess_risk_pct": 42.58,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000013,
-            "excess_risk_pct": 39.13,
+            "excess_risk_pct": 38.37,
             "encounters": 62
           },
           {
             "enemy_brawler_id": 16000085,
-            "excess_risk_pct": 37.61,
+            "excess_risk_pct": 36.87,
             "encounters": 60
           }
         ]
@@ -4363,27 +4363,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000044,
-            "excess_risk_pct": 107.97,
+            "excess_risk_pct": 105.84,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 72.63,
+            "excess_risk_pct": 71.2,
             "encounters": 39
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 47.81,
+            "excess_risk_pct": 46.87,
             "encounters": 10
           },
           {
             "enemy_brawler_id": 16000029,
-            "excess_risk_pct": 47.81,
+            "excess_risk_pct": 46.87,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 45.88,
+            "excess_risk_pct": 44.97,
             "encounters": 51
           }
         ]
@@ -4419,27 +4419,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 72.64,
+            "excess_risk_pct": 71.21,
             "encounters": 82
           },
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 70.14,
+            "excess_risk_pct": 68.76,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 58.89,
+            "excess_risk_pct": 57.73,
             "encounters": 219
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 54.19,
+            "excess_risk_pct": 53.12,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 40.33,
+            "excess_risk_pct": 39.54,
             "encounters": 44
           }
         ]
@@ -4475,27 +4475,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 71.99,
+            "excess_risk_pct": 70.58,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 48.79,
+            "excess_risk_pct": 47.83,
             "encounters": 137
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 48.59,
+            "excess_risk_pct": 47.63,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000044,
-            "excess_risk_pct": 46.82,
+            "excess_risk_pct": 45.9,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000072,
-            "excess_risk_pct": 45.64,
+            "excess_risk_pct": 44.75,
             "encounters": 16
           }
         ]
@@ -4531,27 +4531,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 89.59,
+            "excess_risk_pct": 87.83,
             "encounters": 59
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 49.59,
+            "excess_risk_pct": 48.62,
             "encounters": 319
           },
           {
             "enemy_brawler_id": 16000034,
-            "excess_risk_pct": 47.45,
+            "excess_risk_pct": 46.51,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 45.1,
+            "excess_risk_pct": 44.22,
             "encounters": 200
           },
           {
             "enemy_brawler_id": 16000062,
-            "excess_risk_pct": 35.96,
+            "excess_risk_pct": 35.26,
             "encounters": 14
           }
         ]
@@ -4587,27 +4587,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 88.59,
+            "excess_risk_pct": 86.85,
             "encounters": 9
           },
           {
             "enemy_brawler_id": 16000034,
-            "excess_risk_pct": 62.92,
+            "excess_risk_pct": 61.68,
             "encounters": 31
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 62.87,
+            "excess_risk_pct": 61.63,
             "encounters": 348
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 54.23,
+            "excess_risk_pct": 53.16,
             "encounters": 213
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 52.53,
+            "excess_risk_pct": 51.5,
             "encounters": 15
           }
         ]
@@ -4643,27 +4643,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 143.53,
+            "excess_risk_pct": 140.7,
             "encounters": 38
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 99.19,
+            "excess_risk_pct": 97.23,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 64.21,
+            "excess_risk_pct": 62.95,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 60.23,
+            "excess_risk_pct": 59.05,
             "encounters": 341
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 42.93,
+            "excess_risk_pct": 42.09,
             "encounters": 14
           }
         ]
@@ -4699,27 +4699,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 120.88,
+            "excess_risk_pct": 118.5,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 100.69,
+            "excess_risk_pct": 98.71,
             "encounters": 58
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 56.6,
+            "excess_risk_pct": 55.49,
             "encounters": 144
           },
           {
             "enemy_brawler_id": 16000062,
-            "excess_risk_pct": 55.28,
+            "excess_risk_pct": 54.2,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 54.98,
+            "excess_risk_pct": 53.9,
             "encounters": 74
           }
         ]
@@ -4755,27 +4755,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 96.94,
+            "excess_risk_pct": 95.04,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 78.0,
+            "excess_risk_pct": 76.47,
             "encounters": 49
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 76.23,
+            "excess_risk_pct": 74.74,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 68.58,
+            "excess_risk_pct": 67.23,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000076,
-            "excess_risk_pct": 49.61,
+            "excess_risk_pct": 48.64,
             "encounters": 48
           }
         ]
@@ -4811,27 +4811,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 56.78,
+            "excess_risk_pct": 55.67,
             "encounters": 335
           },
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 41.5,
+            "excess_risk_pct": 40.68,
             "encounters": 40
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 41.06,
+            "excess_risk_pct": 40.25,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 37.57,
+            "excess_risk_pct": 36.84,
             "encounters": 190
           },
           {
             "enemy_brawler_id": 16000049,
-            "excess_risk_pct": 35.33,
+            "excess_risk_pct": 34.63,
             "encounters": 43
           }
         ]
@@ -4867,27 +4867,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 66.7,
+            "excess_risk_pct": 65.39,
             "encounters": 52
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 63.95,
+            "excess_risk_pct": 62.7,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 51.72,
+            "excess_risk_pct": 50.71,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 46.81,
+            "excess_risk_pct": 45.89,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000034,
-            "excess_risk_pct": 41.9,
+            "excess_risk_pct": 41.07,
             "encounters": 27
           }
         ]
@@ -4923,27 +4923,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 62.48,
+            "excess_risk_pct": 61.25,
             "encounters": 11
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 44.47,
+            "excess_risk_pct": 43.6,
             "encounters": 199
           },
           {
             "enemy_brawler_id": 16000040,
-            "excess_risk_pct": 41.22,
+            "excess_risk_pct": 40.41,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 40.74,
+            "excess_risk_pct": 39.94,
             "encounters": 29
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 39.37,
+            "excess_risk_pct": 38.6,
             "encounters": 297
           }
         ]
@@ -4979,27 +4979,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 66.39,
+            "excess_risk_pct": 65.08,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 63.26,
+            "excess_risk_pct": 62.01,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 54.76,
+            "excess_risk_pct": 53.68,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 46.05,
+            "excess_risk_pct": 45.14,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 42.68,
+            "excess_risk_pct": 41.84,
             "encounters": 196
           }
         ]
@@ -5035,27 +5035,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 108.83,
+            "excess_risk_pct": 106.7,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 102.93,
+            "excess_risk_pct": 100.92,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 72.78,
+            "excess_risk_pct": 71.35,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 64.51,
+            "excess_risk_pct": 63.25,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 62.91,
+            "excess_risk_pct": 61.68,
             "encounters": 150
           }
         ]
@@ -5091,27 +5091,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000070,
-            "excess_risk_pct": 50.87,
+            "excess_risk_pct": 49.87,
             "encounters": 153
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 36.59,
+            "excess_risk_pct": 35.87,
             "encounters": 189
           },
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 36.28,
+            "excess_risk_pct": 35.57,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000071,
-            "excess_risk_pct": 30.01,
+            "excess_risk_pct": 29.42,
             "encounters": 116
           },
           {
             "enemy_brawler_id": 16000094,
-            "excess_risk_pct": 28.57,
+            "excess_risk_pct": 28.01,
             "encounters": 35
           }
         ]
@@ -5147,27 +5147,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 44.23,
+            "excess_risk_pct": 43.36,
             "encounters": 198
           },
           {
             "enemy_brawler_id": 16000089,
-            "excess_risk_pct": 39.05,
+            "excess_risk_pct": 38.28,
             "encounters": 26
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 36.84,
+            "excess_risk_pct": 36.11,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 35.51,
+            "excess_risk_pct": 34.81,
             "encounters": 42
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 35.13,
+            "excess_risk_pct": 34.44,
             "encounters": 287
           }
         ]
@@ -5203,27 +5203,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 65.5,
+            "excess_risk_pct": 64.22,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 54.31,
+            "excess_risk_pct": 53.24,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 46.02,
+            "excess_risk_pct": 45.12,
             "encounters": 312
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 42.36,
+            "excess_risk_pct": 41.53,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 38.67,
+            "excess_risk_pct": 37.92,
             "encounters": 66
           }
         ]
@@ -5259,27 +5259,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 94.37,
+            "excess_risk_pct": 92.52,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 59.17,
+            "excess_risk_pct": 58.0,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 56.69,
+            "excess_risk_pct": 55.58,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000015,
-            "excess_risk_pct": 47.01,
+            "excess_risk_pct": 46.08,
             "encounters": 153
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 45.58,
+            "excess_risk_pct": 44.69,
             "encounters": 51
           }
         ]
@@ -5315,27 +5315,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 75.49,
+            "excess_risk_pct": 74.01,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 62.41,
+            "excess_risk_pct": 61.19,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 59.64,
+            "excess_risk_pct": 58.47,
             "encounters": 56
           },
           {
             "enemy_brawler_id": 16000042,
-            "excess_risk_pct": 51.85,
+            "excess_risk_pct": 50.83,
             "encounters": 119
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 46.68,
+            "excess_risk_pct": 45.77,
             "encounters": 7
           }
         ]
@@ -5371,27 +5371,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000048,
-            "excess_risk_pct": 75.13,
+            "excess_risk_pct": 73.66,
             "encounters": 52
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 65.35,
+            "excess_risk_pct": 64.06,
             "encounters": 58
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 56.86,
+            "excess_risk_pct": 55.75,
             "encounters": 75
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 52.57,
+            "excess_risk_pct": 51.54,
             "encounters": 42
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 52.04,
+            "excess_risk_pct": 51.02,
             "encounters": 44
           }
         ]
@@ -5427,27 +5427,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 68.58,
+            "excess_risk_pct": 67.23,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 50.67,
+            "excess_risk_pct": 49.68,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 43.44,
+            "excess_risk_pct": 42.58,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 40.42,
+            "excess_risk_pct": 39.63,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 35.74,
+            "excess_risk_pct": 35.04,
             "encounters": 13
           }
         ]
@@ -5483,27 +5483,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 54.62,
+            "excess_risk_pct": 53.54,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 45.33,
+            "excess_risk_pct": 44.44,
             "encounters": 41
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 40.71,
+            "excess_risk_pct": 39.91,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000041,
-            "excess_risk_pct": 40.27,
+            "excess_risk_pct": 39.48,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 40.22,
+            "excess_risk_pct": 39.43,
             "encounters": 299
           }
         ]
@@ -5539,27 +5539,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 55.28,
+            "excess_risk_pct": 54.2,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000016,
-            "excess_risk_pct": 46.61,
+            "excess_risk_pct": 45.7,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 43.44,
+            "excess_risk_pct": 42.58,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 42.09,
+            "excess_risk_pct": 41.27,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 41.93,
+            "excess_risk_pct": 41.11,
             "encounters": 24
           }
         ]
@@ -5595,27 +5595,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 44.62,
+            "excess_risk_pct": 43.74,
             "encounters": 309
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 44.26,
+            "excess_risk_pct": 43.39,
             "encounters": 45
           },
           {
             "enemy_brawler_id": 16000034,
-            "excess_risk_pct": 41.9,
+            "excess_risk_pct": 41.07,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 40.93,
+            "excess_risk_pct": 40.13,
             "encounters": 195
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 39.74,
+            "excess_risk_pct": 38.96,
             "encounters": 193
           }
         ]
@@ -5651,27 +5651,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 99.19,
+            "excess_risk_pct": 97.23,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 55.14,
+            "excess_risk_pct": 54.05,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000021,
-            "excess_risk_pct": 33.07,
+            "excess_risk_pct": 32.42,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 32.49,
+            "excess_risk_pct": 31.85,
             "encounters": 251
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 30.61,
+            "excess_risk_pct": 30.01,
             "encounters": 180
           }
         ]
@@ -5707,27 +5707,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 67.18,
+            "excess_risk_pct": 65.86,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 44.62,
+            "excess_risk_pct": 43.75,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 37.69,
+            "excess_risk_pct": 36.95,
             "encounters": 294
           },
           {
             "enemy_brawler_id": 16000037,
-            "excess_risk_pct": 31.41,
+            "excess_risk_pct": 30.79,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000054,
-            "excess_risk_pct": 31.33,
+            "excess_risk_pct": 30.71,
             "encounters": 100
           }
         ]
@@ -5763,27 +5763,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 102.93,
+            "excess_risk_pct": 100.92,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000056,
-            "excess_risk_pct": 81.77,
+            "excess_risk_pct": 80.16,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 71.99,
+            "excess_risk_pct": 70.58,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 38.04,
+            "excess_risk_pct": 37.29,
             "encounters": 38
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 33.18,
+            "excess_risk_pct": 32.53,
             "encounters": 40
           }
         ]
@@ -5819,27 +5819,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 85.82,
+            "excess_risk_pct": 84.13,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 71.05,
+            "excess_risk_pct": 69.65,
             "encounters": 60
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 44.86,
+            "excess_risk_pct": 43.98,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000089,
-            "excess_risk_pct": 43.53,
+            "excess_risk_pct": 42.68,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000051,
-            "excess_risk_pct": 42.01,
+            "excess_risk_pct": 41.19,
             "encounters": 13
           }
         ]
@@ -5875,27 +5875,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000058,
-            "excess_risk_pct": 88.04,
+            "excess_risk_pct": 86.31,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 76.23,
+            "excess_risk_pct": 74.74,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.17,
+            "excess_risk_pct": 63.89,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 64.12,
+            "excess_risk_pct": 62.86,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000041,
-            "excess_risk_pct": 52.71,
+            "excess_risk_pct": 51.68,
             "encounters": 24
           }
         ]
@@ -5931,27 +5931,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 68.81,
+            "excess_risk_pct": 67.46,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 46.78,
+            "excess_risk_pct": 45.86,
             "encounters": 7
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 44.76,
+            "excess_risk_pct": 43.88,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.39,
+            "excess_risk_pct": 42.54,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 40.87,
+            "excess_risk_pct": 40.07,
             "encounters": 67
           }
         ]
@@ -5987,27 +5987,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 68.07,
+            "excess_risk_pct": 66.73,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 66.4,
+            "excess_risk_pct": 65.09,
             "encounters": 26
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 49.26,
+            "excess_risk_pct": 48.29,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 47.86,
+            "excess_risk_pct": 46.92,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 47.82,
+            "excess_risk_pct": 46.88,
             "encounters": 315
           }
         ]
@@ -6043,27 +6043,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 90.18,
+            "excess_risk_pct": 88.41,
             "encounters": 55
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 67.75,
+            "excess_risk_pct": 66.42,
             "encounters": 38
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.28,
+            "excess_risk_pct": 64.0,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 51.19,
+            "excess_risk_pct": 50.19,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 46.72,
+            "excess_risk_pct": 45.8,
             "encounters": 135
           }
         ]
@@ -6099,27 +6099,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 45.34,
+            "excess_risk_pct": 44.45,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 41.83,
+            "excess_risk_pct": 41.01,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 41.08,
+            "excess_risk_pct": 40.27,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 38.24,
+            "excess_risk_pct": 37.49,
             "encounters": 294
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 35.78,
+            "excess_risk_pct": 35.08,
             "encounters": 187
           }
         ]
@@ -6155,27 +6155,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 79.17,
+            "excess_risk_pct": 77.62,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 54.44,
+            "excess_risk_pct": 53.38,
             "encounters": 330
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 51.72,
+            "excess_risk_pct": 50.71,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 47.42,
+            "excess_risk_pct": 46.49,
             "encounters": 35
           },
           {
             "enemy_brawler_id": 16000018,
-            "excess_risk_pct": 44.42,
+            "excess_risk_pct": 43.55,
             "encounters": 52
           }
         ]
@@ -6211,27 +6211,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 97.1,
+            "excess_risk_pct": 95.19,
             "encounters": 57
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 89.83,
+            "excess_risk_pct": 88.06,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 68.45,
+            "excess_risk_pct": 67.11,
             "encounters": 155
           },
           {
             "enemy_brawler_id": 16000062,
-            "excess_risk_pct": 64.88,
+            "excess_risk_pct": 63.6,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 57.14,
+            "excess_risk_pct": 56.02,
             "encounters": 21
           }
         ]
@@ -6267,27 +6267,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 125.88,
+            "excess_risk_pct": 123.41,
             "encounters": 108
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 102.93,
+            "excess_risk_pct": 100.92,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 88.15,
+            "excess_risk_pct": 86.42,
             "encounters": 66
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 74.86,
+            "excess_risk_pct": 73.39,
             "encounters": 161
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 69.8,
+            "excess_risk_pct": 68.43,
             "encounters": 51
           }
         ]
@@ -6323,27 +6323,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 67.64,
+            "excess_risk_pct": 66.31,
             "encounters": 8
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 49.6,
+            "excess_risk_pct": 48.62,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 43.82,
+            "excess_risk_pct": 42.96,
             "encounters": 199
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 40.47,
+            "excess_risk_pct": 39.67,
             "encounters": 194
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 38.67,
+            "excess_risk_pct": 37.92,
             "encounters": 66
           }
         ]
@@ -6379,27 +6379,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 65.5,
+            "excess_risk_pct": 64.22,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 53.51,
+            "excess_risk_pct": 52.46,
             "encounters": 328
           },
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 50.04,
+            "excess_risk_pct": 49.06,
             "encounters": 31
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 44.54,
+            "excess_risk_pct": 43.67,
             "encounters": 200
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 42.09,
+            "excess_risk_pct": 41.27,
             "encounters": 21
           }
         ]
@@ -6435,27 +6435,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 72.98,
+            "excess_risk_pct": 71.55,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 59.23,
+            "excess_risk_pct": 58.07,
             "encounters": 340
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 53.48,
+            "excess_risk_pct": 52.43,
             "encounters": 73
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 52.59,
+            "excess_risk_pct": 51.56,
             "encounters": 211
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 49.98,
+            "excess_risk_pct": 49.0,
             "encounters": 207
           }
         ]
@@ -6491,27 +6491,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 51.82,
+            "excess_risk_pct": 50.8,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 49.39,
+            "excess_risk_pct": 48.43,
             "encounters": 319
           },
           {
             "enemy_brawler_id": 16000085,
-            "excess_risk_pct": 49.18,
+            "excess_risk_pct": 48.21,
             "encounters": 65
           },
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 40.46,
+            "excess_risk_pct": 39.66,
             "encounters": 29
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 39.84,
+            "excess_risk_pct": 39.06,
             "encounters": 193
           }
         ]
@@ -6547,27 +6547,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 70.93,
+            "excess_risk_pct": 69.53,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 55.45,
+            "excess_risk_pct": 54.35,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 52.64,
+            "excess_risk_pct": 51.6,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 41.69,
+            "excess_risk_pct": 40.87,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 36.56,
+            "excess_risk_pct": 35.84,
             "encounters": 13
           }
         ]
@@ -6603,27 +6603,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 55.95,
+            "excess_risk_pct": 54.85,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.48,
+            "excess_risk_pct": 42.63,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 40.22,
+            "excess_risk_pct": 39.43,
             "encounters": 29
           },
           {
             "enemy_brawler_id": 16000005,
-            "excess_risk_pct": 36.12,
+            "excess_risk_pct": 35.41,
             "encounters": 159
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 28.02,
+            "excess_risk_pct": 27.47,
             "encounters": 37
           }
         ]
@@ -6659,27 +6659,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 76.94,
+            "excess_risk_pct": 75.42,
             "encounters": 40
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 59.57,
+            "excess_risk_pct": 58.4,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 59.38,
+            "excess_risk_pct": 58.21,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 49.26,
+            "excess_risk_pct": 48.29,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 48.64,
+            "excess_risk_pct": 47.68,
             "encounters": 52
           }
         ]
@@ -6715,27 +6715,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 266.44,
+            "excess_risk_pct": 261.22,
             "encounters": 87
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 145.08,
+            "excess_risk_pct": 142.24,
             "encounters": 77
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 76.78,
+            "excess_risk_pct": 75.27,
             "encounters": 12
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 66.53,
+            "excess_risk_pct": 65.23,
             "encounters": 230
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.17,
+            "excess_risk_pct": 63.89,
             "encounters": 16
           }
         ]
@@ -6771,27 +6771,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 61.5,
+            "excess_risk_pct": 60.28,
             "encounters": 343
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 61.26,
+            "excess_risk_pct": 60.05,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 35.01,
+            "excess_risk_pct": 34.32,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 33.2,
+            "excess_risk_pct": 32.55,
             "encounters": 12
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 31.16,
+            "excess_risk_pct": 30.54,
             "encounters": 27
           }
         ]
@@ -6827,27 +6827,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 103.84,
+            "excess_risk_pct": 101.81,
             "encounters": 64
           },
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 55.85,
+            "excess_risk_pct": 54.75,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 40.94,
+            "excess_risk_pct": 40.13,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 39.09,
+            "excess_risk_pct": 38.32,
             "encounters": 33
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 35.29,
+            "excess_risk_pct": 34.6,
             "encounters": 28
           }
         ]
@@ -6883,27 +6883,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 64.27,
+            "excess_risk_pct": 63.01,
             "encounters": 39
           },
           {
             "enemy_brawler_id": 16000071,
-            "excess_risk_pct": 60.27,
+            "excess_risk_pct": 59.09,
             "encounters": 143
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 56.62,
+            "excess_risk_pct": 55.51,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 47.32,
+            "excess_risk_pct": 46.39,
             "encounters": 10
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 45.27,
+            "excess_risk_pct": 44.38,
             "encounters": 13
           }
         ]
@@ -6939,27 +6939,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000096,
-            "excess_risk_pct": 52.89,
+            "excess_risk_pct": 51.85,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000085,
-            "excess_risk_pct": 37.89,
+            "excess_risk_pct": 37.14,
             "encounters": 60
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 35.99,
+            "excess_risk_pct": 35.29,
             "encounters": 290
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 28.53,
+            "excess_risk_pct": 27.97,
             "encounters": 244
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 25.32,
+            "excess_risk_pct": 24.83,
             "encounters": 39
           }
         ]
@@ -6995,27 +6995,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 70.2,
+            "excess_risk_pct": 68.82,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 67.86,
+            "excess_risk_pct": 66.53,
             "encounters": 8
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 45.17,
+            "excess_risk_pct": 44.28,
             "encounters": 69
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 44.28,
+            "excess_risk_pct": 43.41,
             "encounters": 199
           },
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 43.53,
+            "excess_risk_pct": 42.67,
             "encounters": 12
           }
         ]
@@ -7051,27 +7051,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 116.17,
+            "excess_risk_pct": 113.89,
             "encounters": 49
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 75.49,
+            "excess_risk_pct": 74.01,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 73.9,
+            "excess_risk_pct": 72.45,
             "encounters": 61
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 69.32,
+            "excess_risk_pct": 67.96,
             "encounters": 49
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 65.23,
+            "excess_risk_pct": 63.95,
             "encounters": 79
           }
         ]
@@ -7107,27 +7107,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 63.42,
+            "excess_risk_pct": 62.17,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 44.4,
+            "excess_risk_pct": 43.52,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 40.44,
+            "excess_risk_pct": 39.64,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 37.49,
+            "excess_risk_pct": 36.75,
             "encounters": 65
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 33.9,
+            "excess_risk_pct": 33.23,
             "encounters": 253
           }
         ]
@@ -7163,27 +7163,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000071,
-            "excess_risk_pct": 66.99,
+            "excess_risk_pct": 65.68,
             "encounters": 149
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 52.78,
+            "excess_risk_pct": 51.75,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000070,
-            "excess_risk_pct": 51.86,
+            "excess_risk_pct": 50.84,
             "encounters": 154
           },
           {
             "enemy_brawler_id": 16000021,
-            "excess_risk_pct": 48.44,
+            "excess_risk_pct": 47.49,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000081,
-            "excess_risk_pct": 45.71,
+            "excess_risk_pct": 44.82,
             "encounters": 88
           }
         ]
@@ -7219,27 +7219,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 77.51,
+            "excess_risk_pct": 75.99,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 62.7,
+            "excess_risk_pct": 61.47,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 45.94,
+            "excess_risk_pct": 45.04,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.29,
+            "excess_risk_pct": 42.44,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 40.05,
+            "excess_risk_pct": 39.26,
             "encounters": 44
           }
         ]
@@ -7275,27 +7275,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 85.35,
+            "excess_risk_pct": 83.68,
             "encounters": 29
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 73.83,
+            "excess_risk_pct": 72.38,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 55.49,
+            "excess_risk_pct": 54.4,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 49.03,
+            "excess_risk_pct": 48.06,
             "encounters": 318
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 42.56,
+            "excess_risk_pct": 41.73,
             "encounters": 197
           }
         ]
@@ -7331,27 +7331,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 87.57,
+            "excess_risk_pct": 85.85,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 82.69,
+            "excess_risk_pct": 81.07,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 54.44,
+            "excess_risk_pct": 53.38,
             "encounters": 330
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 47.52,
+            "excess_risk_pct": 46.59,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 38.22,
+            "excess_risk_pct": 37.47,
             "encounters": 40
           }
         ]
@@ -7387,27 +7387,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000070,
-            "excess_risk_pct": 42.76,
+            "excess_risk_pct": 41.92,
             "encounters": 144
           },
           {
             "enemy_brawler_id": 16000017,
-            "excess_risk_pct": 41.79,
+            "excess_risk_pct": 40.97,
             "encounters": 42
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 36.05,
+            "excess_risk_pct": 35.34,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 33.06,
+            "excess_risk_pct": 32.41,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 29.57,
+            "excess_risk_pct": 28.99,
             "encounters": 178
           }
         ]
@@ -7443,27 +7443,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 63.05,
+            "excess_risk_pct": 61.81,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 56.76,
+            "excess_risk_pct": 55.64,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 56.06,
+            "excess_risk_pct": 54.96,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000096,
-            "excess_risk_pct": 45.61,
+            "excess_risk_pct": 44.71,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.58,
+            "excess_risk_pct": 42.72,
             "encounters": 17
           }
         ]
@@ -7499,27 +7499,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 65.51,
+            "excess_risk_pct": 64.23,
             "encounters": 52
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 64.27,
+            "excess_risk_pct": 63.01,
             "encounters": 39
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 62.41,
+            "excess_risk_pct": 61.19,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 50.04,
+            "excess_risk_pct": 49.06,
             "encounters": 31
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 49.83,
+            "excess_risk_pct": 48.85,
             "encounters": 45
           }
         ]
@@ -7555,27 +7555,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.17,
+            "excess_risk_pct": 63.89,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 56.62,
+            "excess_risk_pct": 55.51,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 47.32,
+            "excess_risk_pct": 46.39,
             "encounters": 10
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 46.5,
+            "excess_risk_pct": 45.58,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 37.85,
+            "excess_risk_pct": 37.11,
             "encounters": 43
           }
         ]
@@ -7611,27 +7611,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 64.56,
+            "excess_risk_pct": 63.3,
             "encounters": 34
           },
           {
             "enemy_brawler_id": 16000021,
-            "excess_risk_pct": 59.05,
+            "excess_risk_pct": 57.89,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 46.68,
+            "excess_risk_pct": 45.77,
             "encounters": 7
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 42.88,
+            "excess_risk_pct": 42.04,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 41.34,
+            "excess_risk_pct": 40.53,
             "encounters": 302
           }
         ]
@@ -7667,27 +7667,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 50.28,
+            "excess_risk_pct": 49.29,
             "encounters": 71
           },
           {
             "enemy_brawler_id": 16000035,
-            "excess_risk_pct": 44.84,
+            "excess_risk_pct": 43.96,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 42.38,
+            "excess_risk_pct": 41.55,
             "encounters": 302
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 41.51,
+            "excess_risk_pct": 40.69,
             "encounters": 194
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 39.06,
+            "excess_risk_pct": 38.29,
             "encounters": 191
           }
         ]
@@ -7723,27 +7723,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 55.91,
+            "excess_risk_pct": 54.82,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 37.85,
+            "excess_risk_pct": 37.11,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000040,
-            "excess_risk_pct": 33.8,
+            "excess_risk_pct": 33.14,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 32.98,
+            "excess_risk_pct": 32.33,
             "encounters": 184
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 27.32,
+            "excess_risk_pct": 26.78,
             "encounters": 40
           }
         ]
@@ -7779,27 +7779,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 44.81,
+            "excess_risk_pct": 43.93,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 44.6,
+            "excess_risk_pct": 43.73,
             "encounters": 45
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 43.16,
+            "excess_risk_pct": 42.31,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 34.87,
+            "excess_risk_pct": 34.18,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 34.37,
+            "excess_risk_pct": 33.69,
             "encounters": 12
           }
         ]
@@ -7835,27 +7835,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 52.04,
+            "excess_risk_pct": 51.02,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 46.41,
+            "excess_risk_pct": 45.5,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 44.52,
+            "excess_risk_pct": 43.65,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 36.02,
+            "excess_risk_pct": 35.31,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000101,
-            "excess_risk_pct": 30.81,
+            "excess_risk_pct": 30.21,
             "encounters": 46
           }
         ]
@@ -7891,27 +7891,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 54.51,
+            "excess_risk_pct": 53.45,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 53.76,
+            "excess_risk_pct": 52.71,
             "encounters": 26
           },
           {
             "enemy_brawler_id": 16000056,
-            "excess_risk_pct": 38.49,
+            "excess_risk_pct": 37.73,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000044,
-            "excess_risk_pct": 38.18,
+            "excess_risk_pct": 37.43,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000099,
-            "excess_risk_pct": 31.56,
+            "excess_risk_pct": 30.94,
             "encounters": 78
           }
         ]
@@ -7947,27 +7947,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 50.7,
+            "excess_risk_pct": 49.71,
             "encounters": 322
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 50.67,
+            "excess_risk_pct": 49.68,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 43.34,
+            "excess_risk_pct": 42.49,
             "encounters": 12
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.29,
+            "excess_risk_pct": 42.44,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 39.5,
+            "excess_risk_pct": 38.73,
             "encounters": 17
           }
         ]
@@ -8003,27 +8003,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 55.59,
+            "excess_risk_pct": 54.5,
             "encounters": 332
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 38.48,
+            "excess_risk_pct": 37.73,
             "encounters": 191
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 30.44,
+            "excess_risk_pct": 29.85,
             "encounters": 62
           },
           {
             "enemy_brawler_id": 16000054,
-            "excess_risk_pct": 30.1,
+            "excess_risk_pct": 29.51,
             "encounters": 99
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 29.54,
+            "excess_risk_pct": 28.96,
             "encounters": 179
           }
         ]
@@ -8059,27 +8059,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 67.73,
+            "excess_risk_pct": 66.4,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 65.61,
+            "excess_risk_pct": 64.33,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 65.59,
+            "excess_risk_pct": 64.3,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000083,
-            "excess_risk_pct": 62.2,
+            "excess_risk_pct": 60.98,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000040,
-            "excess_risk_pct": 55.03,
+            "excess_risk_pct": 53.95,
             "encounters": 22
           }
         ]
@@ -8115,27 +8115,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000099,
-            "excess_risk_pct": 53.59,
+            "excess_risk_pct": 52.54,
             "encounters": 91
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 45.4,
+            "excess_risk_pct": 44.51,
             "encounters": 40
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 44.95,
+            "excess_risk_pct": 44.07,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000089,
-            "excess_risk_pct": 43.63,
+            "excess_risk_pct": 42.77,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.39,
+            "excess_risk_pct": 42.54,
             "encounters": 17
           }
         ]
@@ -8171,27 +8171,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000085,
-            "excess_risk_pct": 33.02,
+            "excess_risk_pct": 32.37,
             "encounters": 58
           },
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 32.17,
+            "excess_risk_pct": 31.54,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000094,
-            "excess_risk_pct": 28.57,
+            "excess_risk_pct": 28.01,
             "encounters": 35
           },
           {
             "enemy_brawler_id": 16000089,
-            "excess_risk_pct": 27.59,
+            "excess_risk_pct": 27.04,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 24.4,
+            "excess_risk_pct": 23.92,
             "encounters": 36
           }
         ]
@@ -8227,27 +8227,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 75.49,
+            "excess_risk_pct": 74.01,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 71.99,
+            "excess_risk_pct": 70.58,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 63.5,
+            "excess_risk_pct": 62.25,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000048,
-            "excess_risk_pct": 58.29,
+            "excess_risk_pct": 57.15,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 55.5,
+            "excess_risk_pct": 54.41,
             "encounters": 45
           }
         ]
@@ -8283,27 +8283,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 69.16,
+            "excess_risk_pct": 67.8,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000044,
-            "excess_risk_pct": 64.09,
+            "excess_risk_pct": 62.83,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 57.08,
-            "encounters": 49
-          },
-          {
-            "enemy_brawler_id": 16000075,
             "excess_risk_pct": 55.96,
             "encounters": 49
           },
           {
+            "enemy_brawler_id": 16000075,
+            "excess_risk_pct": 54.87,
+            "encounters": 49
+          },
+          {
             "enemy_brawler_id": 16000051,
-            "excess_risk_pct": 52.93,
+            "excess_risk_pct": 51.89,
             "encounters": 14
           }
         ]
@@ -21006,27 +21006,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 64.17,
+            "excess_risk_pct": 62.91,
             "encounters": 34
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 54.91,
+            "excess_risk_pct": 53.83,
             "encounters": 331
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 53.94,
+            "excess_risk_pct": 52.88,
             "encounters": 213
           },
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 39.5,
+            "excess_risk_pct": 38.73,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 35.4,
+            "excess_risk_pct": 34.71,
             "encounters": 187
           }
         ]
@@ -21062,27 +21062,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 87.57,
+            "excess_risk_pct": 85.85,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 57.12,
+            "excess_risk_pct": 56.0,
             "encounters": 217
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 53.51,
+            "excess_risk_pct": 52.46,
             "encounters": 328
           },
           {
             "enemy_brawler_id": 16000096,
-            "excess_risk_pct": 52.58,
+            "excess_risk_pct": 51.55,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 52.53,
+            "excess_risk_pct": 51.5,
             "encounters": 15
           }
         ]
@@ -21118,27 +21118,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000083,
-            "excess_risk_pct": 80.1,
+            "excess_risk_pct": 78.53,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 65.51,
+            "excess_risk_pct": 64.23,
             "encounters": 52
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 61.47,
+            "excess_risk_pct": 60.26,
             "encounters": 223
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 48.36,
+            "excess_risk_pct": 47.41,
             "encounters": 317
           },
           {
             "enemy_brawler_id": 16000014,
-            "excess_risk_pct": 39.22,
+            "excess_risk_pct": 38.45,
             "encounters": 101
           }
         ]
@@ -21174,27 +21174,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.83,
+            "excess_risk_pct": 64.54,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 57.25,
+            "excess_risk_pct": 56.12,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 55.93,
+            "excess_risk_pct": 54.83,
             "encounters": 143
           },
           {
             "enemy_brawler_id": 16000003,
-            "excess_risk_pct": 53.9,
+            "excess_risk_pct": 52.84,
             "encounters": 143
           },
           {
             "enemy_brawler_id": 16000058,
-            "excess_risk_pct": 52.83,
+            "excess_risk_pct": 51.79,
             "encounters": 17
           }
         ]
@@ -21230,27 +21230,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 64.17,
+            "excess_risk_pct": 62.91,
             "encounters": 34
           },
           {
             "enemy_brawler_id": 16000052,
-            "excess_risk_pct": 46.74,
+            "excess_risk_pct": 45.82,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.29,
+            "excess_risk_pct": 42.44,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 42.37,
+            "excess_risk_pct": 41.54,
             "encounters": 197
           },
           {
             "enemy_brawler_id": 16000095,
-            "excess_risk_pct": 38.27,
+            "excess_risk_pct": 37.52,
             "encounters": 21
           }
         ]
@@ -21286,27 +21286,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000041,
-            "excess_risk_pct": 71.8,
+            "excess_risk_pct": 70.39,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 67.06,
+            "excess_risk_pct": 65.75,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 53.09,
+            "excess_risk_pct": 52.05,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000096,
-            "excess_risk_pct": 45.32,
+            "excess_risk_pct": 44.43,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000095,
-            "excess_risk_pct": 38.27,
+            "excess_risk_pct": 37.52,
             "encounters": 21
           }
         ]
@@ -21342,27 +21342,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 109.27,
+            "excess_risk_pct": 107.13,
             "encounters": 76
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 81.11,
+            "excess_risk_pct": 79.52,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000007,
-            "excess_risk_pct": 76.9,
+            "excess_risk_pct": 75.39,
             "encounters": 65
           },
           {
             "enemy_brawler_id": 16000008,
-            "excess_risk_pct": 41.64,
+            "excess_risk_pct": 40.82,
             "encounters": 63
           },
           {
             "enemy_brawler_id": 16000013,
-            "excess_risk_pct": 39.13,
+            "excess_risk_pct": 38.37,
             "encounters": 62
           }
         ]
@@ -21398,27 +21398,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 131.66,
+            "excess_risk_pct": 129.08,
             "encounters": 55
           },
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 128.55,
+            "excess_risk_pct": 126.03,
             "encounters": 83
           },
           {
             "enemy_brawler_id": 16000007,
-            "excess_risk_pct": 109.56,
+            "excess_risk_pct": 107.41,
             "encounters": 77
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 71.88,
+            "excess_risk_pct": 70.47,
             "encounters": 54
           },
           {
             "enemy_brawler_id": 16000094,
-            "excess_risk_pct": 61.63,
+            "excess_risk_pct": 60.42,
             "encounters": 44
           }
         ]
@@ -21454,27 +21454,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 98.4,
+            "excess_risk_pct": 96.46,
             "encounters": 62
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 92.18,
+            "excess_risk_pct": 90.36,
             "encounters": 264
           },
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 70.71,
+            "excess_risk_pct": 69.31,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000051,
-            "excess_risk_pct": 64.74,
+            "excess_risk_pct": 63.46,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 59.98,
+            "excess_risk_pct": 58.79,
             "encounters": 340
           }
         ]
@@ -21510,27 +21510,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 54.08,
+            "excess_risk_pct": 53.02,
             "encounters": 329
           },
           {
             "enemy_brawler_id": 16000054,
-            "excess_risk_pct": 47.09,
+            "excess_risk_pct": 46.16,
             "encounters": 112
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 41.27,
+            "excess_risk_pct": 40.46,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 38.77,
+            "excess_risk_pct": 38.01,
             "encounters": 66
           },
           {
             "enemy_brawler_id": 16000011,
-            "excess_risk_pct": 37.7,
+            "excess_risk_pct": 36.96,
             "encounters": 314
           }
         ]
@@ -21566,27 +21566,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 88.76,
+            "excess_risk_pct": 87.02,
             "encounters": 39
           },
           {
             "enemy_brawler_id": 16000010,
-            "excess_risk_pct": 53.0,
+            "excess_risk_pct": 51.96,
             "encounters": 66
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 52.57,
+            "excess_risk_pct": 51.54,
             "encounters": 326
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 46.98,
+            "excess_risk_pct": 46.06,
             "encounters": 203
           },
           {
             "enemy_brawler_id": 16000052,
-            "excess_risk_pct": 46.74,
+            "excess_risk_pct": 45.82,
             "encounters": 16
           }
         ]
@@ -21622,27 +21622,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 53.04,
+            "excess_risk_pct": 52.0,
             "encounters": 327
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 48.86,
+            "excess_risk_pct": 47.9,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 44.54,
+            "excess_risk_pct": 43.67,
             "encounters": 200
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 35.02,
+            "excess_risk_pct": 34.33,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000011,
-            "excess_risk_pct": 34.97,
+            "excess_risk_pct": 34.29,
             "encounters": 308
           }
         ]
@@ -21678,27 +21678,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 55.62,
+            "excess_risk_pct": 54.53,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000021,
-            "excess_risk_pct": 48.44,
+            "excess_risk_pct": 47.49,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000062,
-            "excess_risk_pct": 45.38,
+            "excess_risk_pct": 44.49,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 45.3,
+            "excess_risk_pct": 44.42,
             "encounters": 40
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 44.52,
+            "excess_risk_pct": 43.65,
             "encounters": 14
           }
         ]
@@ -21734,27 +21734,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000013,
-            "excess_risk_pct": 50.35,
+            "excess_risk_pct": 49.37,
             "encounters": 67
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 47.32,
+            "excess_risk_pct": 46.39,
             "encounters": 10
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 47.08,
+            "excess_risk_pct": 46.16,
             "encounters": 70
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 42.27,
+            "excess_risk_pct": 41.45,
             "encounters": 304
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 37.57,
+            "excess_risk_pct": 36.84,
             "encounters": 190
           }
         ]
@@ -21790,27 +21790,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 54.19,
+            "excess_risk_pct": 53.12,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000014,
-            "excess_risk_pct": 43.65,
+            "excess_risk_pct": 42.79,
             "encounters": 104
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 42.36,
+            "excess_risk_pct": 41.53,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 38.02,
+            "excess_risk_pct": 37.27,
             "encounters": 262
           },
           {
             "enemy_brawler_id": 16000058,
-            "excess_risk_pct": 34.58,
+            "excess_risk_pct": 33.9,
             "encounters": 15
           }
         ]
@@ -21846,27 +21846,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 121.02,
+            "excess_risk_pct": 118.64,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 94.24,
+            "excess_risk_pct": 92.39,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000015,
-            "excess_risk_pct": 79.8,
+            "excess_risk_pct": 78.23,
             "encounters": 187
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 76.58,
+            "excess_risk_pct": 75.08,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 71.84,
+            "excess_risk_pct": 70.43,
             "encounters": 82
           }
         ]
@@ -21902,27 +21902,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000040,
-            "excess_risk_pct": 48.38,
+            "excess_risk_pct": 47.43,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 35.78,
+            "excess_risk_pct": 35.07,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 32.61,
+            "excess_risk_pct": 31.97,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000007,
-            "excess_risk_pct": 31.07,
+            "excess_risk_pct": 30.46,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 28.71,
+            "excess_risk_pct": 28.14,
             "encounters": 244
           }
         ]
@@ -21958,27 +21958,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 97.87,
+            "excess_risk_pct": 95.95,
             "encounters": 31
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 78.8,
+            "excess_risk_pct": 77.25,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 48.36,
+            "excess_risk_pct": 47.41,
             "encounters": 317
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 42.88,
+            "excess_risk_pct": 42.04,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 41.93,
+            "excess_risk_pct": 41.11,
             "encounters": 24
           }
         ]
@@ -22014,27 +22014,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 64.06,
+            "excess_risk_pct": 62.8,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 62.81,
+            "excess_risk_pct": 61.58,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 55.73,
+            "excess_risk_pct": 54.63,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 53.29,
+            "excess_risk_pct": 52.25,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 44.24,
+            "excess_risk_pct": 43.38,
             "encounters": 308
           }
         ]
@@ -22070,27 +22070,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 216.66,
+            "excess_risk_pct": 212.42,
             "encounters": 115
           },
           {
             "enemy_brawler_id": 16000007,
-            "excess_risk_pct": 106.84,
+            "excess_risk_pct": 104.74,
             "encounters": 76
           },
           {
             "enemy_brawler_id": 16000030,
-            "excess_risk_pct": 83.11,
+            "excess_risk_pct": 81.48,
             "encounters": 273
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 49.56,
+            "excess_risk_pct": 48.58,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 35.74,
+            "excess_risk_pct": 35.04,
             "encounters": 13
           }
         ]
@@ -22126,27 +22126,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 92.39,
+            "excess_risk_pct": 90.57,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 66.36,
+            "excess_risk_pct": 65.06,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 56.11,
+            "excess_risk_pct": 55.0,
             "encounters": 332
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 50.58,
+            "excess_risk_pct": 49.59,
             "encounters": 207
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 44.11,
+            "excess_risk_pct": 43.24,
             "encounters": 13
           }
         ]
@@ -22182,27 +22182,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 109.85,
+            "excess_risk_pct": 107.67,
             "encounters": 60
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 76.98,
+            "excess_risk_pct": 75.45,
             "encounters": 161
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 65.21,
+            "excess_risk_pct": 63.92,
             "encounters": 37
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 65.12,
+            "excess_risk_pct": 63.82,
             "encounters": 78
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 54.64,
+            "excess_risk_pct": 53.55,
             "encounters": 48
           }
         ]
@@ -22238,27 +22238,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 62.05,
+            "excess_risk_pct": 60.83,
             "encounters": 11
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 59.81,
+            "excess_risk_pct": 58.64,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 46.68,
+            "excess_risk_pct": 45.77,
             "encounters": 7
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 45.27,
+            "excess_risk_pct": 44.38,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 35.02,
+            "excess_risk_pct": 34.33,
             "encounters": 14
           }
         ]
@@ -22294,27 +22294,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 57.03,
+            "excess_risk_pct": 55.91,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000048,
-            "excess_risk_pct": 51.56,
+            "excess_risk_pct": 50.55,
             "encounters": 45
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 46.5,
+            "excess_risk_pct": 45.58,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 44.86,
+            "excess_risk_pct": 43.98,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000072,
-            "excess_risk_pct": 36.54,
+            "excess_risk_pct": 35.82,
             "encounters": 15
           }
         ]
@@ -22350,27 +22350,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 340.5,
+            "excess_risk_pct": 333.73,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 72.89,
+            "excess_risk_pct": 71.44,
             "encounters": 364
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 56.52,
+            "excess_risk_pct": 55.4,
             "encounters": 213
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 53.29,
+            "excess_risk_pct": 52.23,
             "encounters": 209
           },
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 45.47,
+            "excess_risk_pct": 44.57,
             "encounters": 12
           }
         ]
@@ -22406,27 +22406,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 78.8,
+            "excess_risk_pct": 77.25,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 53.09,
+            "excess_risk_pct": 52.05,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 51.33,
+            "excess_risk_pct": 50.32,
             "encounters": 209
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 44.15,
+            "excess_risk_pct": 43.28,
             "encounters": 308
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 43.21,
+            "excess_risk_pct": 42.36,
             "encounters": 34
           }
         ]
@@ -22462,27 +22462,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 64.78,
+            "excess_risk_pct": 63.5,
             "encounters": 225
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 58.58,
+            "excess_risk_pct": 57.42,
             "encounters": 335
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 54.53,
+            "excess_risk_pct": 53.45,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 46.52,
+            "excess_risk_pct": 45.6,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 36.26,
+            "excess_risk_pct": 35.55,
             "encounters": 22
           }
         ]
@@ -22518,27 +22518,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 56.2,
+            "excess_risk_pct": 55.1,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 53.16,
+            "excess_risk_pct": 52.11,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 50.67,
+            "excess_risk_pct": 49.68,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000095,
-            "excess_risk_pct": 38.27,
+            "excess_risk_pct": 37.52,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 36.76,
+            "excess_risk_pct": 36.04,
             "encounters": 31
           }
         ]
@@ -22574,27 +22574,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000041,
-            "excess_risk_pct": 59.08,
+            "excess_risk_pct": 57.92,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 47.52,
+            "excess_risk_pct": 46.59,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 43.44,
+            "excess_risk_pct": 42.58,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000013,
-            "excess_risk_pct": 39.13,
+            "excess_risk_pct": 38.37,
             "encounters": 62
           },
           {
             "enemy_brawler_id": 16000085,
-            "excess_risk_pct": 37.61,
+            "excess_risk_pct": 36.87,
             "encounters": 60
           }
         ]
@@ -22630,27 +22630,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000044,
-            "excess_risk_pct": 107.97,
+            "excess_risk_pct": 105.84,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 72.63,
+            "excess_risk_pct": 71.2,
             "encounters": 39
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 47.81,
+            "excess_risk_pct": 46.87,
             "encounters": 10
           },
           {
             "enemy_brawler_id": 16000029,
-            "excess_risk_pct": 47.81,
+            "excess_risk_pct": 46.87,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 45.88,
+            "excess_risk_pct": 44.97,
             "encounters": 51
           }
         ]
@@ -22686,27 +22686,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 72.64,
+            "excess_risk_pct": 71.21,
             "encounters": 82
           },
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 70.14,
+            "excess_risk_pct": 68.76,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 58.89,
+            "excess_risk_pct": 57.73,
             "encounters": 219
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 54.19,
+            "excess_risk_pct": 53.12,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 40.33,
+            "excess_risk_pct": 39.54,
             "encounters": 44
           }
         ]
@@ -22742,27 +22742,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 71.99,
+            "excess_risk_pct": 70.58,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 48.79,
+            "excess_risk_pct": 47.83,
             "encounters": 137
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 48.59,
+            "excess_risk_pct": 47.63,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000044,
-            "excess_risk_pct": 46.82,
+            "excess_risk_pct": 45.9,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000072,
-            "excess_risk_pct": 45.64,
+            "excess_risk_pct": 44.75,
             "encounters": 16
           }
         ]
@@ -22798,27 +22798,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 89.59,
+            "excess_risk_pct": 87.83,
             "encounters": 59
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 49.59,
+            "excess_risk_pct": 48.62,
             "encounters": 319
           },
           {
             "enemy_brawler_id": 16000034,
-            "excess_risk_pct": 47.45,
+            "excess_risk_pct": 46.51,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 45.1,
+            "excess_risk_pct": 44.22,
             "encounters": 200
           },
           {
             "enemy_brawler_id": 16000062,
-            "excess_risk_pct": 35.96,
+            "excess_risk_pct": 35.26,
             "encounters": 14
           }
         ]
@@ -22854,27 +22854,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 88.59,
+            "excess_risk_pct": 86.85,
             "encounters": 9
           },
           {
             "enemy_brawler_id": 16000034,
-            "excess_risk_pct": 62.92,
+            "excess_risk_pct": 61.68,
             "encounters": 31
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 62.87,
+            "excess_risk_pct": 61.63,
             "encounters": 348
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 54.23,
+            "excess_risk_pct": 53.16,
             "encounters": 213
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 52.53,
+            "excess_risk_pct": 51.5,
             "encounters": 15
           }
         ]
@@ -22910,27 +22910,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 143.53,
+            "excess_risk_pct": 140.7,
             "encounters": 38
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 99.19,
+            "excess_risk_pct": 97.23,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 64.21,
+            "excess_risk_pct": 62.95,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 60.23,
+            "excess_risk_pct": 59.05,
             "encounters": 341
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 42.93,
+            "excess_risk_pct": 42.09,
             "encounters": 14
           }
         ]
@@ -22966,27 +22966,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 120.88,
+            "excess_risk_pct": 118.5,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 100.69,
+            "excess_risk_pct": 98.71,
             "encounters": 58
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 56.6,
+            "excess_risk_pct": 55.49,
             "encounters": 144
           },
           {
             "enemy_brawler_id": 16000062,
-            "excess_risk_pct": 55.28,
+            "excess_risk_pct": 54.2,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 54.98,
+            "excess_risk_pct": 53.9,
             "encounters": 74
           }
         ]
@@ -23022,27 +23022,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 96.94,
+            "excess_risk_pct": 95.04,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 78.0,
+            "excess_risk_pct": 76.47,
             "encounters": 49
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 76.23,
+            "excess_risk_pct": 74.74,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 68.58,
+            "excess_risk_pct": 67.23,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000076,
-            "excess_risk_pct": 49.61,
+            "excess_risk_pct": 48.64,
             "encounters": 48
           }
         ]
@@ -23078,27 +23078,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 56.78,
+            "excess_risk_pct": 55.67,
             "encounters": 335
           },
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 41.5,
+            "excess_risk_pct": 40.68,
             "encounters": 40
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 41.06,
+            "excess_risk_pct": 40.25,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 37.57,
+            "excess_risk_pct": 36.84,
             "encounters": 190
           },
           {
             "enemy_brawler_id": 16000049,
-            "excess_risk_pct": 35.33,
+            "excess_risk_pct": 34.63,
             "encounters": 43
           }
         ]
@@ -23134,27 +23134,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 66.7,
+            "excess_risk_pct": 65.39,
             "encounters": 52
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 63.95,
+            "excess_risk_pct": 62.7,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 51.72,
+            "excess_risk_pct": 50.71,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 46.81,
+            "excess_risk_pct": 45.89,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000034,
-            "excess_risk_pct": 41.9,
+            "excess_risk_pct": 41.07,
             "encounters": 27
           }
         ]
@@ -23190,27 +23190,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 62.48,
+            "excess_risk_pct": 61.25,
             "encounters": 11
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 44.47,
+            "excess_risk_pct": 43.6,
             "encounters": 199
           },
           {
             "enemy_brawler_id": 16000040,
-            "excess_risk_pct": 41.22,
+            "excess_risk_pct": 40.41,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 40.74,
+            "excess_risk_pct": 39.94,
             "encounters": 29
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 39.37,
+            "excess_risk_pct": 38.6,
             "encounters": 297
           }
         ]
@@ -23246,27 +23246,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 66.39,
+            "excess_risk_pct": 65.08,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 63.26,
+            "excess_risk_pct": 62.01,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 54.76,
+            "excess_risk_pct": 53.68,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 46.05,
+            "excess_risk_pct": 45.14,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 42.68,
+            "excess_risk_pct": 41.84,
             "encounters": 196
           }
         ]
@@ -23302,27 +23302,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 108.83,
+            "excess_risk_pct": 106.7,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 102.93,
+            "excess_risk_pct": 100.92,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 72.78,
+            "excess_risk_pct": 71.35,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 64.51,
+            "excess_risk_pct": 63.25,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 62.91,
+            "excess_risk_pct": 61.68,
             "encounters": 150
           }
         ]
@@ -23358,27 +23358,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000070,
-            "excess_risk_pct": 50.87,
+            "excess_risk_pct": 49.87,
             "encounters": 153
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 36.59,
+            "excess_risk_pct": 35.87,
             "encounters": 189
           },
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 36.28,
+            "excess_risk_pct": 35.57,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000071,
-            "excess_risk_pct": 30.01,
+            "excess_risk_pct": 29.42,
             "encounters": 116
           },
           {
             "enemy_brawler_id": 16000094,
-            "excess_risk_pct": 28.57,
+            "excess_risk_pct": 28.01,
             "encounters": 35
           }
         ]
@@ -23414,27 +23414,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 44.23,
+            "excess_risk_pct": 43.36,
             "encounters": 198
           },
           {
             "enemy_brawler_id": 16000089,
-            "excess_risk_pct": 39.05,
+            "excess_risk_pct": 38.28,
             "encounters": 26
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 36.84,
+            "excess_risk_pct": 36.11,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 35.51,
+            "excess_risk_pct": 34.81,
             "encounters": 42
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 35.13,
+            "excess_risk_pct": 34.44,
             "encounters": 287
           }
         ]
@@ -23470,27 +23470,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 65.5,
+            "excess_risk_pct": 64.22,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 54.31,
+            "excess_risk_pct": 53.24,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 46.02,
+            "excess_risk_pct": 45.12,
             "encounters": 312
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 42.36,
+            "excess_risk_pct": 41.53,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 38.67,
+            "excess_risk_pct": 37.92,
             "encounters": 66
           }
         ]
@@ -23526,27 +23526,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 94.37,
+            "excess_risk_pct": 92.52,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 59.17,
+            "excess_risk_pct": 58.0,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 56.69,
+            "excess_risk_pct": 55.58,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000015,
-            "excess_risk_pct": 47.01,
+            "excess_risk_pct": 46.08,
             "encounters": 153
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 45.58,
+            "excess_risk_pct": 44.69,
             "encounters": 51
           }
         ]
@@ -23582,27 +23582,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 75.49,
+            "excess_risk_pct": 74.01,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 62.41,
+            "excess_risk_pct": 61.19,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 59.64,
+            "excess_risk_pct": 58.47,
             "encounters": 56
           },
           {
             "enemy_brawler_id": 16000042,
-            "excess_risk_pct": 51.85,
+            "excess_risk_pct": 50.83,
             "encounters": 119
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 46.68,
+            "excess_risk_pct": 45.77,
             "encounters": 7
           }
         ]
@@ -23638,27 +23638,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000048,
-            "excess_risk_pct": 75.13,
+            "excess_risk_pct": 73.66,
             "encounters": 52
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 65.35,
+            "excess_risk_pct": 64.06,
             "encounters": 58
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 56.86,
+            "excess_risk_pct": 55.75,
             "encounters": 75
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 52.57,
+            "excess_risk_pct": 51.54,
             "encounters": 42
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 52.04,
+            "excess_risk_pct": 51.02,
             "encounters": 44
           }
         ]
@@ -23694,27 +23694,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 68.58,
+            "excess_risk_pct": 67.23,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 50.67,
+            "excess_risk_pct": 49.68,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 43.44,
+            "excess_risk_pct": 42.58,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 40.42,
+            "excess_risk_pct": 39.63,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 35.74,
+            "excess_risk_pct": 35.04,
             "encounters": 13
           }
         ]
@@ -23750,27 +23750,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 54.62,
+            "excess_risk_pct": 53.54,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 45.33,
+            "excess_risk_pct": 44.44,
             "encounters": 41
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 40.71,
+            "excess_risk_pct": 39.91,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000041,
-            "excess_risk_pct": 40.27,
+            "excess_risk_pct": 39.48,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 40.22,
+            "excess_risk_pct": 39.43,
             "encounters": 299
           }
         ]
@@ -23806,27 +23806,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 55.28,
+            "excess_risk_pct": 54.2,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000016,
-            "excess_risk_pct": 46.61,
+            "excess_risk_pct": 45.7,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 43.44,
+            "excess_risk_pct": 42.58,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 42.09,
+            "excess_risk_pct": 41.27,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 41.93,
+            "excess_risk_pct": 41.11,
             "encounters": 24
           }
         ]
@@ -23862,27 +23862,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 44.62,
+            "excess_risk_pct": 43.74,
             "encounters": 309
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 44.26,
+            "excess_risk_pct": 43.39,
             "encounters": 45
           },
           {
             "enemy_brawler_id": 16000034,
-            "excess_risk_pct": 41.9,
+            "excess_risk_pct": 41.07,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 40.93,
+            "excess_risk_pct": 40.13,
             "encounters": 195
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 39.74,
+            "excess_risk_pct": 38.96,
             "encounters": 193
           }
         ]
@@ -23918,27 +23918,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 99.19,
+            "excess_risk_pct": 97.23,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 55.14,
+            "excess_risk_pct": 54.05,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000021,
-            "excess_risk_pct": 33.07,
+            "excess_risk_pct": 32.42,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 32.49,
+            "excess_risk_pct": 31.85,
             "encounters": 251
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 30.61,
+            "excess_risk_pct": 30.01,
             "encounters": 180
           }
         ]
@@ -23974,27 +23974,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 67.18,
+            "excess_risk_pct": 65.86,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 44.62,
+            "excess_risk_pct": 43.75,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 37.69,
+            "excess_risk_pct": 36.95,
             "encounters": 294
           },
           {
             "enemy_brawler_id": 16000037,
-            "excess_risk_pct": 31.41,
+            "excess_risk_pct": 30.79,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000054,
-            "excess_risk_pct": 31.33,
+            "excess_risk_pct": 30.71,
             "encounters": 100
           }
         ]
@@ -24030,27 +24030,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 102.93,
+            "excess_risk_pct": 100.92,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000056,
-            "excess_risk_pct": 81.77,
+            "excess_risk_pct": 80.16,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 71.99,
+            "excess_risk_pct": 70.58,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 38.04,
+            "excess_risk_pct": 37.29,
             "encounters": 38
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 33.18,
+            "excess_risk_pct": 32.53,
             "encounters": 40
           }
         ]
@@ -24086,27 +24086,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 85.82,
+            "excess_risk_pct": 84.13,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 71.05,
+            "excess_risk_pct": 69.65,
             "encounters": 60
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 44.86,
+            "excess_risk_pct": 43.98,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000089,
-            "excess_risk_pct": 43.53,
+            "excess_risk_pct": 42.68,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000051,
-            "excess_risk_pct": 42.01,
+            "excess_risk_pct": 41.19,
             "encounters": 13
           }
         ]
@@ -24142,27 +24142,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000058,
-            "excess_risk_pct": 88.04,
+            "excess_risk_pct": 86.31,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 76.23,
+            "excess_risk_pct": 74.74,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.17,
+            "excess_risk_pct": 63.89,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 64.12,
+            "excess_risk_pct": 62.86,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000041,
-            "excess_risk_pct": 52.71,
+            "excess_risk_pct": 51.68,
             "encounters": 24
           }
         ]
@@ -24198,27 +24198,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 68.81,
+            "excess_risk_pct": 67.46,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 46.78,
+            "excess_risk_pct": 45.86,
             "encounters": 7
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 44.76,
+            "excess_risk_pct": 43.88,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.39,
+            "excess_risk_pct": 42.54,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 40.87,
+            "excess_risk_pct": 40.07,
             "encounters": 67
           }
         ]
@@ -24254,27 +24254,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 68.07,
+            "excess_risk_pct": 66.73,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 66.4,
+            "excess_risk_pct": 65.09,
             "encounters": 26
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 49.26,
+            "excess_risk_pct": 48.29,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 47.86,
+            "excess_risk_pct": 46.92,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 47.82,
+            "excess_risk_pct": 46.88,
             "encounters": 315
           }
         ]
@@ -24310,27 +24310,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 90.18,
+            "excess_risk_pct": 88.41,
             "encounters": 55
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 67.75,
+            "excess_risk_pct": 66.42,
             "encounters": 38
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.28,
+            "excess_risk_pct": 64.0,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 51.19,
+            "excess_risk_pct": 50.19,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 46.72,
+            "excess_risk_pct": 45.8,
             "encounters": 135
           }
         ]
@@ -24366,27 +24366,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 45.34,
+            "excess_risk_pct": 44.45,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 41.83,
+            "excess_risk_pct": 41.01,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 41.08,
+            "excess_risk_pct": 40.27,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 38.24,
+            "excess_risk_pct": 37.49,
             "encounters": 294
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 35.78,
+            "excess_risk_pct": 35.08,
             "encounters": 187
           }
         ]
@@ -24422,27 +24422,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 79.17,
+            "excess_risk_pct": 77.62,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 54.44,
+            "excess_risk_pct": 53.38,
             "encounters": 330
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 51.72,
+            "excess_risk_pct": 50.71,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 47.42,
+            "excess_risk_pct": 46.49,
             "encounters": 35
           },
           {
             "enemy_brawler_id": 16000018,
-            "excess_risk_pct": 44.42,
+            "excess_risk_pct": 43.55,
             "encounters": 52
           }
         ]
@@ -24478,27 +24478,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 97.1,
+            "excess_risk_pct": 95.19,
             "encounters": 57
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 89.83,
+            "excess_risk_pct": 88.06,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 68.45,
+            "excess_risk_pct": 67.11,
             "encounters": 155
           },
           {
             "enemy_brawler_id": 16000062,
-            "excess_risk_pct": 64.88,
+            "excess_risk_pct": 63.6,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 57.14,
+            "excess_risk_pct": 56.02,
             "encounters": 21
           }
         ]
@@ -24534,27 +24534,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 125.88,
+            "excess_risk_pct": 123.41,
             "encounters": 108
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 102.93,
+            "excess_risk_pct": 100.92,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 88.15,
+            "excess_risk_pct": 86.42,
             "encounters": 66
           },
           {
             "enemy_brawler_id": 16000023,
-            "excess_risk_pct": 74.86,
+            "excess_risk_pct": 73.39,
             "encounters": 161
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 69.8,
+            "excess_risk_pct": 68.43,
             "encounters": 51
           }
         ]
@@ -24590,27 +24590,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 67.64,
+            "excess_risk_pct": 66.31,
             "encounters": 8
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 49.6,
+            "excess_risk_pct": 48.62,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 43.82,
+            "excess_risk_pct": 42.96,
             "encounters": 199
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 40.47,
+            "excess_risk_pct": 39.67,
             "encounters": 194
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 38.67,
+            "excess_risk_pct": 37.92,
             "encounters": 66
           }
         ]
@@ -24646,27 +24646,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 65.5,
+            "excess_risk_pct": 64.22,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 53.51,
+            "excess_risk_pct": 52.46,
             "encounters": 328
           },
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 50.04,
+            "excess_risk_pct": 49.06,
             "encounters": 31
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 44.54,
+            "excess_risk_pct": 43.67,
             "encounters": 200
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 42.09,
+            "excess_risk_pct": 41.27,
             "encounters": 21
           }
         ]
@@ -24702,27 +24702,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 72.98,
+            "excess_risk_pct": 71.55,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 59.23,
+            "excess_risk_pct": 58.07,
             "encounters": 340
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 53.48,
+            "excess_risk_pct": 52.43,
             "encounters": 73
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 52.59,
+            "excess_risk_pct": 51.56,
             "encounters": 211
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 49.98,
+            "excess_risk_pct": 49.0,
             "encounters": 207
           }
         ]
@@ -24758,27 +24758,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 51.82,
+            "excess_risk_pct": 50.8,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 49.39,
+            "excess_risk_pct": 48.43,
             "encounters": 319
           },
           {
             "enemy_brawler_id": 16000085,
-            "excess_risk_pct": 49.18,
+            "excess_risk_pct": 48.21,
             "encounters": 65
           },
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 40.46,
+            "excess_risk_pct": 39.66,
             "encounters": 29
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 39.84,
+            "excess_risk_pct": 39.06,
             "encounters": 193
           }
         ]
@@ -24814,27 +24814,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 70.93,
+            "excess_risk_pct": 69.53,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 55.45,
+            "excess_risk_pct": 54.35,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 52.64,
+            "excess_risk_pct": 51.6,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 41.69,
+            "excess_risk_pct": 40.87,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 36.56,
+            "excess_risk_pct": 35.84,
             "encounters": 13
           }
         ]
@@ -24870,27 +24870,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 55.95,
+            "excess_risk_pct": 54.85,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.48,
+            "excess_risk_pct": 42.63,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 40.22,
+            "excess_risk_pct": 39.43,
             "encounters": 29
           },
           {
             "enemy_brawler_id": 16000005,
-            "excess_risk_pct": 36.12,
+            "excess_risk_pct": 35.41,
             "encounters": 159
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 28.02,
+            "excess_risk_pct": 27.47,
             "encounters": 37
           }
         ]
@@ -24926,27 +24926,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 76.94,
+            "excess_risk_pct": 75.42,
             "encounters": 40
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 59.57,
+            "excess_risk_pct": 58.4,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 59.38,
+            "excess_risk_pct": 58.21,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 49.26,
+            "excess_risk_pct": 48.29,
             "encounters": 22
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 48.64,
+            "excess_risk_pct": 47.68,
             "encounters": 52
           }
         ]
@@ -24982,27 +24982,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 266.44,
+            "excess_risk_pct": 261.22,
             "encounters": 87
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 145.08,
+            "excess_risk_pct": 142.24,
             "encounters": 77
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 76.78,
+            "excess_risk_pct": 75.27,
             "encounters": 12
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 66.53,
+            "excess_risk_pct": 65.23,
             "encounters": 230
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.17,
+            "excess_risk_pct": 63.89,
             "encounters": 16
           }
         ]
@@ -25038,27 +25038,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 61.5,
+            "excess_risk_pct": 60.28,
             "encounters": 343
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 61.26,
+            "excess_risk_pct": 60.05,
             "encounters": 50
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 35.01,
+            "excess_risk_pct": 34.32,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 33.2,
+            "excess_risk_pct": 32.55,
             "encounters": 12
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 31.16,
+            "excess_risk_pct": 30.54,
             "encounters": 27
           }
         ]
@@ -25094,27 +25094,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 103.84,
+            "excess_risk_pct": 101.81,
             "encounters": 64
           },
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 55.85,
+            "excess_risk_pct": 54.75,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000067,
-            "excess_risk_pct": 40.94,
+            "excess_risk_pct": 40.13,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 39.09,
+            "excess_risk_pct": 38.32,
             "encounters": 33
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 35.29,
+            "excess_risk_pct": 34.6,
             "encounters": 28
           }
         ]
@@ -25150,27 +25150,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 64.27,
+            "excess_risk_pct": 63.01,
             "encounters": 39
           },
           {
             "enemy_brawler_id": 16000071,
-            "excess_risk_pct": 60.27,
+            "excess_risk_pct": 59.09,
             "encounters": 143
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 56.62,
+            "excess_risk_pct": 55.51,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 47.32,
+            "excess_risk_pct": 46.39,
             "encounters": 10
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 45.27,
+            "excess_risk_pct": 44.38,
             "encounters": 13
           }
         ]
@@ -25206,27 +25206,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000096,
-            "excess_risk_pct": 52.89,
+            "excess_risk_pct": 51.85,
             "encounters": 21
           },
           {
             "enemy_brawler_id": 16000085,
-            "excess_risk_pct": 37.89,
+            "excess_risk_pct": 37.14,
             "encounters": 60
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 35.99,
+            "excess_risk_pct": 35.29,
             "encounters": 290
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 28.53,
+            "excess_risk_pct": 27.97,
             "encounters": 244
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 25.32,
+            "excess_risk_pct": 24.83,
             "encounters": 39
           }
         ]
@@ -25262,27 +25262,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 70.2,
+            "excess_risk_pct": 68.82,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 67.86,
+            "excess_risk_pct": 66.53,
             "encounters": 8
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 45.17,
+            "excess_risk_pct": 44.28,
             "encounters": 69
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 44.28,
+            "excess_risk_pct": 43.41,
             "encounters": 199
           },
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 43.53,
+            "excess_risk_pct": 42.67,
             "encounters": 12
           }
         ]
@@ -25318,27 +25318,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 116.17,
+            "excess_risk_pct": 113.89,
             "encounters": 49
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 75.49,
+            "excess_risk_pct": 74.01,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000061,
-            "excess_risk_pct": 73.9,
+            "excess_risk_pct": 72.45,
             "encounters": 61
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 69.32,
+            "excess_risk_pct": 67.96,
             "encounters": 49
           },
           {
             "enemy_brawler_id": 16000065,
-            "excess_risk_pct": 65.23,
+            "excess_risk_pct": 63.95,
             "encounters": 79
           }
         ]
@@ -25374,27 +25374,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 63.42,
+            "excess_risk_pct": 62.17,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 44.4,
+            "excess_risk_pct": 43.52,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 40.44,
+            "excess_risk_pct": 39.64,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 37.49,
+            "excess_risk_pct": 36.75,
             "encounters": 65
           },
           {
             "enemy_brawler_id": 16000012,
-            "excess_risk_pct": 33.9,
+            "excess_risk_pct": 33.23,
             "encounters": 253
           }
         ]
@@ -25430,27 +25430,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000071,
-            "excess_risk_pct": 66.99,
+            "excess_risk_pct": 65.68,
             "encounters": 149
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 52.78,
+            "excess_risk_pct": 51.75,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000070,
-            "excess_risk_pct": 51.86,
+            "excess_risk_pct": 50.84,
             "encounters": 154
           },
           {
             "enemy_brawler_id": 16000021,
-            "excess_risk_pct": 48.44,
+            "excess_risk_pct": 47.49,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000081,
-            "excess_risk_pct": 45.71,
+            "excess_risk_pct": 44.82,
             "encounters": 88
           }
         ]
@@ -25486,27 +25486,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 77.51,
+            "excess_risk_pct": 75.99,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000080,
-            "excess_risk_pct": 62.7,
+            "excess_risk_pct": 61.47,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 45.94,
+            "excess_risk_pct": 45.04,
             "encounters": 53
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.29,
+            "excess_risk_pct": 42.44,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 40.05,
+            "excess_risk_pct": 39.26,
             "encounters": 44
           }
         ]
@@ -25542,27 +25542,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000024,
-            "excess_risk_pct": 85.35,
+            "excess_risk_pct": 83.68,
             "encounters": 29
           },
           {
             "enemy_brawler_id": 16000060,
-            "excess_risk_pct": 73.83,
+            "excess_risk_pct": 72.38,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 55.49,
+            "excess_risk_pct": 54.4,
             "encounters": 13
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 49.03,
+            "excess_risk_pct": 48.06,
             "encounters": 318
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 42.56,
+            "excess_risk_pct": 41.73,
             "encounters": 197
           }
         ]
@@ -25598,27 +25598,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 87.57,
+            "excess_risk_pct": 85.85,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 82.69,
+            "excess_risk_pct": 81.07,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 54.44,
+            "excess_risk_pct": 53.38,
             "encounters": 330
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 47.52,
+            "excess_risk_pct": 46.59,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 38.22,
+            "excess_risk_pct": 37.47,
             "encounters": 40
           }
         ]
@@ -25654,27 +25654,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000070,
-            "excess_risk_pct": 42.76,
+            "excess_risk_pct": 41.92,
             "encounters": 144
           },
           {
             "enemy_brawler_id": 16000017,
-            "excess_risk_pct": 41.79,
+            "excess_risk_pct": 40.97,
             "encounters": 42
           },
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 36.05,
+            "excess_risk_pct": 35.34,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000079,
-            "excess_risk_pct": 33.06,
+            "excess_risk_pct": 32.41,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 29.57,
+            "excess_risk_pct": 28.99,
             "encounters": 178
           }
         ]
@@ -25710,27 +25710,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000086,
-            "excess_risk_pct": 63.05,
+            "excess_risk_pct": 61.81,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 56.76,
+            "excess_risk_pct": 55.64,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 56.06,
+            "excess_risk_pct": 54.96,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000096,
-            "excess_risk_pct": 45.61,
+            "excess_risk_pct": 44.71,
             "encounters": 20
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.58,
+            "excess_risk_pct": 42.72,
             "encounters": 17
           }
         ]
@@ -25766,27 +25766,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 65.51,
+            "excess_risk_pct": 64.23,
             "encounters": 52
           },
           {
             "enemy_brawler_id": 16000073,
-            "excess_risk_pct": 64.27,
+            "excess_risk_pct": 63.01,
             "encounters": 39
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 62.41,
+            "excess_risk_pct": 61.19,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 50.04,
+            "excess_risk_pct": 49.06,
             "encounters": 31
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 49.83,
+            "excess_risk_pct": 48.85,
             "encounters": 45
           }
         ]
@@ -25822,27 +25822,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 65.17,
+            "excess_risk_pct": 63.89,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000087,
-            "excess_risk_pct": 56.62,
+            "excess_risk_pct": 55.51,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000093,
-            "excess_risk_pct": 47.32,
+            "excess_risk_pct": 46.39,
             "encounters": 10
           },
           {
             "enemy_brawler_id": 16000064,
-            "excess_risk_pct": 46.5,
+            "excess_risk_pct": 45.58,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 37.85,
+            "excess_risk_pct": 37.11,
             "encounters": 43
           }
         ]
@@ -25878,27 +25878,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000068,
-            "excess_risk_pct": 64.56,
+            "excess_risk_pct": 63.3,
             "encounters": 34
           },
           {
             "enemy_brawler_id": 16000021,
-            "excess_risk_pct": 59.05,
+            "excess_risk_pct": 57.89,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000053,
-            "excess_risk_pct": 46.68,
+            "excess_risk_pct": 45.77,
             "encounters": 7
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 42.88,
+            "excess_risk_pct": 42.04,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 41.34,
+            "excess_risk_pct": 40.53,
             "encounters": 302
           }
         ]
@@ -25934,27 +25934,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 50.28,
+            "excess_risk_pct": 49.29,
             "encounters": 71
           },
           {
             "enemy_brawler_id": 16000035,
-            "excess_risk_pct": 44.84,
+            "excess_risk_pct": 43.96,
             "encounters": 28
           },
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 42.38,
+            "excess_risk_pct": 41.55,
             "encounters": 302
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 41.51,
+            "excess_risk_pct": 40.69,
             "encounters": 194
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 39.06,
+            "excess_risk_pct": 38.29,
             "encounters": 191
           }
         ]
@@ -25990,27 +25990,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 55.91,
+            "excess_risk_pct": 54.82,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 37.85,
+            "excess_risk_pct": 37.11,
             "encounters": 43
           },
           {
             "enemy_brawler_id": 16000040,
-            "excess_risk_pct": 33.8,
+            "excess_risk_pct": 33.14,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 32.98,
+            "excess_risk_pct": 32.33,
             "encounters": 184
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 27.32,
+            "excess_risk_pct": 26.78,
             "encounters": 40
           }
         ]
@@ -26046,27 +26046,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 44.81,
+            "excess_risk_pct": 43.93,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000078,
-            "excess_risk_pct": 44.6,
+            "excess_risk_pct": 43.73,
             "encounters": 45
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 43.16,
+            "excess_risk_pct": 42.31,
             "encounters": 68
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 34.87,
+            "excess_risk_pct": 34.18,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 34.37,
+            "excess_risk_pct": 33.69,
             "encounters": 12
           }
         ]
@@ -26102,27 +26102,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 52.04,
+            "excess_risk_pct": 51.02,
             "encounters": 44
           },
           {
             "enemy_brawler_id": 16000075,
-            "excess_risk_pct": 46.41,
+            "excess_risk_pct": 45.5,
             "encounters": 46
           },
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 44.52,
+            "excess_risk_pct": 43.65,
             "encounters": 14
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 36.02,
+            "excess_risk_pct": 35.31,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000101,
-            "excess_risk_pct": 30.81,
+            "excess_risk_pct": 30.21,
             "encounters": 46
           }
         ]
@@ -26158,27 +26158,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 54.51,
+            "excess_risk_pct": 53.45,
             "encounters": 32
           },
           {
             "enemy_brawler_id": 16000028,
-            "excess_risk_pct": 53.76,
+            "excess_risk_pct": 52.71,
             "encounters": 26
           },
           {
             "enemy_brawler_id": 16000056,
-            "excess_risk_pct": 38.49,
+            "excess_risk_pct": 37.73,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000044,
-            "excess_risk_pct": 38.18,
+            "excess_risk_pct": 37.43,
             "encounters": 16
           },
           {
             "enemy_brawler_id": 16000099,
-            "excess_risk_pct": 31.56,
+            "excess_risk_pct": 30.94,
             "encounters": 78
           }
         ]
@@ -26214,27 +26214,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 50.7,
+            "excess_risk_pct": 49.71,
             "encounters": 322
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 50.67,
+            "excess_risk_pct": 49.68,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000091,
-            "excess_risk_pct": 43.34,
+            "excess_risk_pct": 42.49,
             "encounters": 12
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.29,
+            "excess_risk_pct": 42.44,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000092,
-            "excess_risk_pct": 39.5,
+            "excess_risk_pct": 38.73,
             "encounters": 17
           }
         ]
@@ -26270,27 +26270,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000026,
-            "excess_risk_pct": 55.59,
+            "excess_risk_pct": 54.5,
             "encounters": 332
           },
           {
             "enemy_brawler_id": 16000002,
-            "excess_risk_pct": 38.48,
+            "excess_risk_pct": 37.73,
             "encounters": 191
           },
           {
             "enemy_brawler_id": 16000063,
-            "excess_risk_pct": 30.44,
+            "excess_risk_pct": 29.85,
             "encounters": 62
           },
           {
             "enemy_brawler_id": 16000054,
-            "excess_risk_pct": 30.1,
+            "excess_risk_pct": 29.51,
             "encounters": 99
           },
           {
             "enemy_brawler_id": 16000102,
-            "excess_risk_pct": 29.54,
+            "excess_risk_pct": 28.96,
             "encounters": 179
           }
         ]
@@ -26326,27 +26326,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000090,
-            "excess_risk_pct": 67.73,
+            "excess_risk_pct": 66.4,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000084,
-            "excess_risk_pct": 65.61,
+            "excess_risk_pct": 64.33,
             "encounters": 15
           },
           {
             "enemy_brawler_id": 16000100,
-            "excess_risk_pct": 65.59,
+            "excess_risk_pct": 64.3,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000083,
-            "excess_risk_pct": 62.2,
+            "excess_risk_pct": 60.98,
             "encounters": 18
           },
           {
             "enemy_brawler_id": 16000040,
-            "excess_risk_pct": 55.03,
+            "excess_risk_pct": 53.95,
             "encounters": 22
           }
         ]
@@ -26382,27 +26382,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000099,
-            "excess_risk_pct": 53.59,
+            "excess_risk_pct": 52.54,
             "encounters": 91
           },
           {
             "enemy_brawler_id": 16000046,
-            "excess_risk_pct": 45.4,
+            "excess_risk_pct": 44.51,
             "encounters": 40
           },
           {
             "enemy_brawler_id": 16000066,
-            "excess_risk_pct": 44.95,
+            "excess_risk_pct": 44.07,
             "encounters": 30
           },
           {
             "enemy_brawler_id": 16000089,
-            "excess_risk_pct": 43.63,
+            "excess_risk_pct": 42.77,
             "encounters": 27
           },
           {
             "enemy_brawler_id": 16000069,
-            "excess_risk_pct": 43.39,
+            "excess_risk_pct": 42.54,
             "encounters": 17
           }
         ]
@@ -26438,27 +26438,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000085,
-            "excess_risk_pct": 33.02,
+            "excess_risk_pct": 32.37,
             "encounters": 58
           },
           {
             "enemy_brawler_id": 16000019,
-            "excess_risk_pct": 32.17,
+            "excess_risk_pct": 31.54,
             "encounters": 48
           },
           {
             "enemy_brawler_id": 16000094,
-            "excess_risk_pct": 28.57,
+            "excess_risk_pct": 28.01,
             "encounters": 35
           },
           {
             "enemy_brawler_id": 16000089,
-            "excess_risk_pct": 27.59,
+            "excess_risk_pct": 27.04,
             "encounters": 24
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 24.4,
+            "excess_risk_pct": 23.92,
             "encounters": 36
           }
         ]
@@ -26494,27 +26494,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000057,
-            "excess_risk_pct": 75.49,
+            "excess_risk_pct": 74.01,
             "encounters": 17
           },
           {
             "enemy_brawler_id": 16000031,
-            "excess_risk_pct": 71.99,
+            "excess_risk_pct": 70.58,
             "encounters": 23
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 63.5,
+            "excess_risk_pct": 62.25,
             "encounters": 51
           },
           {
             "enemy_brawler_id": 16000048,
-            "excess_risk_pct": 58.29,
+            "excess_risk_pct": 57.15,
             "encounters": 47
           },
           {
             "enemy_brawler_id": 16000036,
-            "excess_risk_pct": 55.5,
+            "excess_risk_pct": 54.41,
             "encounters": 45
           }
         ]
@@ -26550,27 +26550,27 @@
         "top_counters": [
           {
             "enemy_brawler_id": 16000074,
-            "excess_risk_pct": 69.16,
+            "excess_risk_pct": 67.8,
             "encounters": 25
           },
           {
             "enemy_brawler_id": 16000044,
-            "excess_risk_pct": 64.09,
+            "excess_risk_pct": 62.83,
             "encounters": 19
           },
           {
             "enemy_brawler_id": 16000059,
-            "excess_risk_pct": 57.08,
-            "encounters": 49
-          },
-          {
-            "enemy_brawler_id": 16000075,
             "excess_risk_pct": 55.96,
             "encounters": 49
           },
           {
+            "enemy_brawler_id": 16000075,
+            "excess_risk_pct": 54.87,
+            "encounters": 49
+          },
+          {
             "enemy_brawler_id": 16000051,
-            "excess_risk_pct": 52.93,
+            "excess_risk_pct": 51.89,
             "encounters": 14
           }
         ]
